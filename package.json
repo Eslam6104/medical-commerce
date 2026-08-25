@@ -1,0 +1,52 @@
+{
+  "name": "project2",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "concurrently \"vite\" \"json-server --watch data.json --port 8000\"",
+    "build": "vite build",
+    "lint": "eslint .",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.1",
+    "@hookform/resolvers": "^5.2.2",
+    "@mui/icons-material": "^7.3.5",
+    "@mui/material": "^7.3.4",
+    "@react-google-maps/api": "^2.20.7",
+    "@reduxjs/toolkit": "^2.9.2",
+    "@tanstack/react-query": "^5.90.6",
+    "@tanstack/react-query-devtools": "^5.90.2",
+    "axios": "^1.13.1",
+    "country-state-city": "^3.2.1",
+    "firebase": "^12.6.0",
+    "framer-motion": "^12.23.24",
+    "leaflet": "^1.9.4",
+    "motion": "^12.23.24",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1",
+    "react-hot-toast": "^2.6.0",
+    "react-icons": "^5.5.0",
+    "react-leaflet": "^5.0.0",
+    "react-redux": "^9.2.0",
+    "react-router-dom": "^7.9.5",
+    "redux-persist": "^6.0.0",
+    "sweetalert2": "^11.26.3",
+    "swiper": "^12.0.3",
+    "zod": "^4.1.12"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.36.0",
+    "@types/react": "^19.1.16",
+    "@types/react-dom": "^19.1.9",
+    "@vitejs/plugin-react": "^5.0.4",
+    "concurrently": "^9.2.1",
+    "eslint": "^9.36.0",
+    "eslint-plugin-react-hooks": "^5.2.0",
+    "eslint-plugin-react-refresh": "^0.4.22",
+    "globals": "^16.4.0",
+    "vite": "^7.1.7"
+  }
+}

@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap");
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Outfit", sans-serif !important;
+}
+
+:root {
+  --main-color: rgba(31, 123, 118, 1);
+  --second-color: rgba(117, 180, 130, 1);
+  --third-color: rgba(242, 250, 244, 1);
+  --blue-color: rgba(31, 123, 118, 0.9);
+  --gray-100: rgba(172, 172, 172, 0.4);
+  --gray-400: rgba(234, 234, 234, 0.8);
+}
+
+.custom-swiper .swiper-pagination-bullet-active {
+  background-color: var(--main-color);
+  opacity: 1;
+}
+
+.css-1c5o7vy-MuiPagination-ul{
+  justify-content: flex-end;
+}

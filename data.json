@@ -1,0 +1,5606 @@
+{
+  "product": [
+    {
+      "id": "1",
+      "name": "CeraVe Hydrating Facial Cleanser",
+      "brand": "CeraVe",
+      "active_ingredient": "Ceramides, Hyaluronic Acid",
+      "description": "Gentle non-foaming cleanser that removes dirt while hydrating the skin.",
+      "price": 11.99,
+      "category": "Cleansers",
+      "type": "Hydrating Cleanser",
+      "product_type": "Cosmetics",
+      "skin_type": [
+        "Normal",
+        "Dry",
+        "Sensitive"
+      ],
+      "benefits": [
+        "Removes dirt and makeup",
+        "Hydrates the skin",
+        "Restores natural barrier"
+      ],
+      "how_to_use": "Apply to wet skin, massage gently, rinse thoroughly.",
+      "ingredients_list": [
+        "Aqua",
+        "Glycerin",
+        "Cetearyl Alcohol",
+        "Ceramide NP",
+        "Hyaluronic Acid"
+      ],
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.5,
+        "total_reviews": 500,
+        "ratings_distribution": {
+          "1": 10,
+          "2": 15,
+          "3": 50,
+          "4": 125,
+          "5": 300
+        },
+        "top_positive_review": "Leaves skin soft and hydrated!",
+        "top_negative_review": "A bit heavy for oily skin."
+      },
+      "careInstructions": "Use morning and night on wet skin.",
+      "image": "https://m.media-amazon.com/images/I/51DbQev1thL._SX425_.jpg",
+      "made_in": "USA",
+      "certifications": [
+        "Dermatologist Tested",
+        "Fragrance-Free",
+        "Non-Comedogenic"
+      ],
+      "stock_quantity": 120,
+      "shipping_info": "Free shipping for orders over $50"
+    },
+    {
+      "id": "2",
+      "name": "Plavix (Clopidogrel)",
+      "active_ingredient": "Clopidogrel",
+      "description": "Used to prevent blood clots in patients who have had a recent heart attack or stroke, or who have peripheral arterial disease.",
+      "price": 275,
+      "discount": 10,
+      "dealEnd": "2026-04-20T23:59:59",
+      "category": "Cardiovascular System (CVS)",
+      "type": "Antiplatelet Agent",
+      "product_type": "Medicines",
+      "careInstructions": "Consult a physician for dosage and use.",
+      "image": "https://res.cloudinary.com/dah254u09/image/upload/1FJvqpmaUjcG_sacai1.jpg",
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.3,
+        "total_reviews": 250,
+        "ratings_distribution": {
+          "1": 9,
+          "2": 16,
+          "3": 23,
+          "4": 57,
+          "5": 145
+        }
+      },
+      "manufacturer_name": "Sanofi/Bristol-Myers Squibb",
+      "made_in": "France/USA",
+      "ingredient_list": "Clopidogrel Bisulfate, Hydrogenated Castor Oil, Hydroxypropylcellulose, Mannitol, Microcrystalline Cellulose, Polyethylene Glycol 6000."
+    },
+    {
+      "id": "3",
+      "name": "3-Channel ECG Monitor",
+      "model": "Model-1000",
+      "manufacturer": "MedTech Co.",
+      "brand": "CardioSense",
+      "description": "Used to monitor and record heart activity in clinics and emergency rooms with 3 channels for accurate ECG readings.",
+      "price": 120,
+      "category": "Monitoring",
+      "type": "Monitoring Device",
+      "product_type": "Devices",
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 3.7,
+        "total_reviews": 10,
+        "ratings_distribution": {
+          "1": 2,
+          "2": 0,
+          "3": 1,
+          "4": 3,
+          "5": 4
+        }
+      },
+      "careInstructions": "Follow manufacturer guidelines, clean with approved products, and contact technical service when needed.",
+      "image": "https://res.cloudinary.com/dx4zjyfvt/image/upload/v1761985440/img_11593_ezfhbs.jpg"
+    },
+    {
+      "id": "4",
+      "name": "The Ordinary Niacinamide 10% + Zinc 1%",
+      "brand": "The Ordinary",
+      "active_ingredient": "Niacinamide, Zinc PCA",
+      "description": "Reduces the appearance of blemishes and congestion.",
+      "price": 5.53,
+      "category": "Serums",
+      "type": "Anti-Blemish Serum",
+      "product_type": "Cosmetics",
+      "skin_type": [
+        "Oily",
+        "Combination"
+      ],
+      "benefits": [
+        "Reduces blemishes",
+        "Balances sebum",
+        "Lightweight formula"
+      ],
+      "how_to_use": "Apply a few drops morning and evening before creams.",
+      "ingredients_list": [
+        "Niacinamide",
+        "Zinc PCA",
+        "Water",
+        "Glycerin"
+      ],
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.6,
+        "total_reviews": 550,
+        "ratings_distribution": {
+          "1": 11,
+          "2": 16,
+          "3": 55,
+          "4": 137,
+          "5": 330
+        },
+        "top_positive_review": "Leaves skin soft and hydrated!",
+        "top_negative_review": "A bit heavy for oily skin."
+      },
+      "careInstructions": "Avoid contact with eyes.",
+      "image": "https://m.media-amazon.com/images/I/31NQ28l5e4L._SX342_SY445_QL70_FMwebp_.jpg",
+      "made_in": "Canada",
+      "certifications": [
+        "Vegan",
+        "Cruelty-Free"
+      ],
+      "stock_quantity": 200,
+      "shipping_info": "Ships within 3-5 business days"
+    },
+    {
+      "id": "5",
+      "name": "Flagyl (Metronidazole)",
+      "active_ingredient": "Metronidazole",
+      "description": "Used to treat bacterial infections, particularly anaerobic bacteria, and parasitic infections in the gastrointestinal tract and other areas.",
+      "price": 32,
+      "category": "Anti-infective Agents",
+      "type": "Antibiotic / Antiprotozoal",
+      "product_type": "Medicines",
+      "careInstructions": "Avoid alcohol during and after treatment.",
+      "image": "https://res.cloudinary.com/dah254u09/image/upload/CoXtN3rsspz1_lysufz.jpg",
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.2,
+        "total_reviews": 203,
+        "ratings_distribution": {
+          "1": 5,
+          "2": 6,
+          "3": 28,
+          "4": 67,
+          "5": 97
+        }
+      },
+      "manufacturer_name": "Sanofi-Aventis",
+      "made_in": "France/Global",
+      "ingredient_list": "Metronidazole, Cellulose, Hydroxypropyl Cellulose, Polyethylene Glycol, Titanium Dioxide."
+    },
+    {
+      "id": "6",
+      "name": "Digital Blood Pressure Monitor",
+      "model": "Model-1001",
+      "manufacturer": "HealthPro",
+      "brand": "AccuMeasure",
+      "description": "An easy-to-use device for measuring blood pressure accurately at home or in clinics.",
+      "price": 275,
+      "category": "Diagnostic",
+      "type": "Diagnostic Device",
+      "product_type": "Devices",
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4,
+        "total_reviews": 25,
+        "ratings_distribution": {
+          "1": 2,
+          "2": 1,
+          "3": 3,
+          "4": 8,
+          "5": 11
+        }
+      },
+      "careInstructions": "Avoid water exposure, check batteries regularly, and have calibration verified by professionals.",
+      "image": "https://res.cloudinary.com/dx4zjyfvt/image/upload/v1761985551/71EMU0Bw_eL._AC_UF1000_1000_QL80__v8jyab.jpg"
+    },
+    {
+      "id": "7",
+      "name": "La Roche-Posay Anthelios SPF 60",
+      "brand": "La Roche-Posay",
+      "active_ingredient": "Avobenzone, Homosalate, Octocrylene",
+      "description": "Broad-spectrum sunscreen for sensitive skin.",
+      "price": 33.29,
+      "category": "Sunscreens",
+      "type": "SPF 60 Broad Spectrum",
+      "product_type": "Cosmetics",
+      "skin_type": [
+        "All Skin Types"
+      ],
+      "benefits": [
+        "High UVA/UVB protection",
+        "Lightweight",
+        "Fast absorbing"
+      ],
+      "how_to_use": "Apply before sun exposure, reapply every 2 hours.",
+      "ingredients_list": [
+        "Avobenzone",
+        "Homosalate",
+        "Octocrylene"
+      ],
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.7,
+        "total_reviews": 600,
+        "ratings_distribution": {
+          "1": 12,
+          "2": 18,
+          "3": 60,
+          "4": 150,
+          "5": 360
+        },
+        "top_positive_review": "Leaves skin soft and hydrated!",
+        "top_negative_review": "A bit heavy for oily skin."
+      },
+      "careInstructions": "Keep out of eyes.",
+      "image": "https://m.media-amazon.com/images/I/61i8dborPbL._AC_SY300_SX300_QL70_FMwebp_.jpg",
+      "made_in": "France",
+      "certifications": [
+        "Dermatologist Tested",
+        "Fragrance-Free"
+      ],
+      "stock_quantity": 150,
+      "shipping_info": "Free shipping for orders over $75"
+    },
+    {
+      "id": "8",
+      "name": "Diazepam (Diazepam)",
+      "active_ingredient": "Diazepam",
+      "description": "Used to treat anxiety, alcohol withdrawal symptoms, and muscle spasms. It has a calming effect on the central nervous system.",
+      "price": 35,
+      "category": "Central Nervous System (CNS)",
+      "type": "Benzodiazepine",
+      "product_type": "Medicines",
+      "careInstructions": "Highly controlled substance. Use strictly as prescribed.",
+      "image": "https://res.cloudinary.com/dah254u09/image/upload/diazepam_bt1vkb.png",
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.2,
+        "total_reviews": 80,
+        "ratings_distribution": {
+          "1": 2,
+          "2": 2,
+          "3": 10,
+          "4": 26,
+          "5": 40
+        }
+      },
+      "manufacturer_name": "Generic (Various)",
+      "made_in": "Global",
+      "ingredient_list": "Diazepam, Lactose Monohydrate, Corn Starch, Magnesium Stearate, D&C Yellow No. 10."
+    },
+    {
+      "id": "9",
+      "name": "Portable Ventilator",
+      "model": "Model-1002",
+      "manufacturer": "BioCare",
+      "brand": "LifeFlow",
+      "description": "Provides respiratory support for patients with adjustable settings suitable for ICU and transport use.",
+      "price": 430,
+      "category": "Respiratory",
+      "type": "Therapeutic Device",
+      "product_type": "Devices",
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 3.95,
+        "total_reviews": 40,
+        "ratings_distribution": {
+          "1": 4,
+          "2": 2,
+          "3": 4,
+          "4": 12,
+          "5": 18
+        }
+      },
+      "careInstructions": "Ensure regular maintenance, clean filters, and provide operator training.",
+      "image": "https://res.cloudinary.com/dx4zjyfvt/image/upload/v1761985713/pc37015343-100_alarms_portable_icu_ventilator_pneumatically_intensive_care_breathing_machine_weiwvc.webp"
+    },
+    {
+      "id": "10",
+      "name": "Augmentin (Amoxicillin + Clavulanic Acid)",
+      "active_ingredient": "Amoxicillin, Clavulanic Acid",
+      "description": "A combination antibiotic used to treat a wide range of bacterial infections, including respiratory tract, ear, sinus, and skin infections.",
+      "price": 200,
+      "discount": 8,
+      "dealEnd": "2026-01-20T23:59:59",
+      "category": "Anti-infective Agents",
+      "type": "Broad-Spectrum Antibiotic (Penicillin)",
+      "product_type": "Medicines",
+      "careInstructions": "Complete the full course of treatment.",
+      "image": "https://res.cloudinary.com/dah254u09/image/upload/27oBjww8OoIv_hepgre.jpg",
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.3,
+        "total_reviews": 229,
+        "ratings_distribution": {
+          "1": 7,
+          "2": 7,
+          "3": 17,
+          "4": 68,
+          "5": 130
+        }
+      },
+      "manufacturer_name": "GlaxoSmithKline",
+      "made_in": "UK/Global",
+      "ingredient_list": "Amoxicillin Trihydrate, Potassium Clavulanate, Magnesium Stearate, Sodium Starch Glycolate, Colloidal Silicon Dioxide."
+    },
+    {
+      "id": "11",
+      "name": "The Ordinary Hyaluronic Acid 2% + B5",
+      "brand": "The Ordinary",
+      "active_ingredient": "Hyaluronic Acid, Vitamin B5",
+      "description": "A hydrating serum suitable for all skin types that improves skin elasticity and moisture retention.",
+      "price": 11.99,
+      "currency": "USD",
+      "category": "Serums",
+      "type": "Hydrating Serum",
+      "product_type": "Cosmetics",
+      "skin_type": [
+        "All Skin Types"
+      ],
+      "benefits": [
+        "Hydrates deeply",
+        "Plumps skin",
+        "Soothes dryness"
+      ],
+      "how_to_use": "Apply a few drops to face morning and night before moisturizer.",
+      "ingredients_list": [
+        "Hyaluronic Acid",
+        "Vitamin B5",
+        "Water",
+        "Glycerin"
+      ],
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.8,
+        "total_reviews": 350,
+        "ratings_distribution": {
+          "1": 5,
+          "2": 5,
+          "3": 20,
+          "4": 100,
+          "5": 220
+        },
+        "top_positive_review": "Leaves skin plump and smooth!",
+        "top_negative_review": "Texture is slightly sticky."
+      },
+      "careInstructions": "Use morning and night.",
+      "image": "https://m.media-amazon.com/images/I/61eH32lVpdL._AC_UL320_.jpg",
+      "made_in": "Canada",
+      "certifications": [
+        "Vegan",
+        "Cruelty-Free"
+      ],
+      "stock_quantity": 150,
+      "shipping_info": "Ships within 3-5 business days"
+    },
+    {
+      "id": "12",
+      "name": "12-Lead ECG Machine",
+      "model": "Model-1003",
+      "manufacturer": "MediSys",
+      "brand": "PulseMax",
+      "description": "Advanced ECG system with 12 leads for comprehensive heart condition analysis.",
+      "price": 585,
+      "category": "Imaging",
+      "type": "Surgical Device",
+      "product_type": "Devices",
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.02,
+        "total_reviews": 55,
+        "ratings_distribution": {
+          "1": 4,
+          "2": 3,
+          "3": 6,
+          "4": 17,
+          "5": 25
+        }
+      },
+      "careInstructions": "Verify electrode placement and disinfect contact areas after each use.",
+      "image": "https://res.cloudinary.com/dx4zjyfvt/image/upload/v1761985780/68c68821e7a6f615fe0e1ed5-12-lead-ecg-machine-w-interpretation_imnhrb.webp"
+    },
+    {
+      "id": "13",
+      "name": "Enalapril (Enalapril Maleate)",
+      "active_ingredient": "Enalapril Maleate",
+      "description": "Used to treat high blood pressure and heart failure. It works by relaxing blood vessels, allowing blood to flow more easily.",
+      "price": 30,
+      "category": "Cardiovascular System (CVS)",
+      "type": "ACE Inhibitor",
+      "product_type": "Medicines",
+      "careInstructions": "Consult a physician for dosage and use.",
+      "image": "https://res.cloudinary.com/dah254u09/image/upload/AqFHqp1zxu3R_dzl7zi.jpg",
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.2,
+        "total_reviews": 168,
+        "ratings_distribution": {
+          "1": 2,
+          "2": 12,
+          "3": 24,
+          "4": 48,
+          "5": 82
+        }
+      },
+      "manufacturer_name": "Generic (Various)",
+      "made_in": "Global",
+      "ingredient_list": "Enalapril Maleate, Lactose, Corn Starch, Sodium Bicarbonate, Magnesium Stearate."
+    },
+    {
+      "id": "14",
+      "name": "Co-Diovan (Valsartan + HCTZ)",
+      "active_ingredient": "Valsartan, Hydrochlorothiazide",
+      "description": "A combination medicine used to treat high blood pressure. Valsartan relaxes blood vessels, while HCTZ is a diuretic that helps the body get rid of excess salt and water.",
+      "price": 200,
+      "discount": 7,
+      "dealEnd": "2026-01-20T23:59:59",
+      "category": "Cardiovascular System (CVS)",
+      "type": "ARB + Diuretic",
+      "product_type": "Medicines",
+      "careInstructions": "Consult a physician for dosage and use.",
+      "image": "https://res.cloudinary.com/dah254u09/image/upload/c3E12plqZCtq_akfgt2.jpg",
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.2,
+        "total_reviews": 344,
+        "ratings_distribution": {
+          "1": 9,
+          "2": 17,
+          "3": 44,
+          "4": 110,
+          "5": 164
+        }
+      },
+      "manufacturer_name": "Novartis",
+      "made_in": "Switzerland/Global",
+      "ingredient_list": "Valsartan, Hydrochlorothiazide, Microcrystalline Cellulose, Crospovidone, Magnesium Stearate, Hypromellose, Titanium Dioxide, Iron Oxides."
+    },
+    {
+      "id": "15",
+      "name": "Pulse Oximeter",
+      "model": "Model-1004",
+      "manufacturer": "Sterilix",
+      "brand": "OxyCheck",
+      "description": "Quickly measures oxygen saturation and pulse rate with high accuracy.",
+      "price": 740,
+      "category": "Surgical",
+      "type": "Imaging Device",
+      "product_type": "Devices",
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.1,
+        "total_reviews": 50,
+        "ratings_distribution": {
+          "1": 2,
+          "2": 3,
+          "3": 6,
+          "4": 16,
+          "5": 23
+        }
+      },
+      "careInstructions": "Clean sensor with alcohol between uses and ensure battery functionality.",
+      "image": "https://res.cloudinary.com/dx4zjyfvt/image/upload/v1761985837/1_fe0efb44-9acd-4b30-a67a-8a35203f845c_s1jstf.webp"
+    },
+    {
+      "id": "16",
+      "name": "The Inkey List Hyaluronic Acid Serum",
+      "brand": "The Inkey List",
+      "active_ingredient": "Hyaluronic Acid",
+      "description": "Hydrating serum that attracts moisture to the skin for plumpness and suppleness.",
+      "price": 9.99,
+      "currency": "USD",
+      "category": "Serums",
+      "type": "Hydrating Serum",
+      "product_type": "Cosmetics",
+      "skin_type": [
+        "All Skin Types"
+      ],
+      "benefits": [
+        "Hydrates",
+        "Plumps skin",
+        "Smooths texture"
+      ],
+      "how_to_use": "Apply 1-2 drops to face morning and night before moisturizer.",
+      "ingredients_list": [
+        "Hyaluronic Acid",
+        "Water",
+        "Glycerin",
+        "Sodium Hyaluronate"
+      ],
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.6,
+        "total_reviews": 1200,
+        "ratings_distribution": {
+          "1": 10,
+          "2": 20,
+          "3": 70,
+          "4": 300,
+          "5": 800
+        },
+        "top_positive_review": "Hydrates skin beautifully.",
+        "top_negative_review": "May feel sticky initially."
+      },
+      "careInstructions": "Use morning and night.",
+      "image": "https://m.media-amazon.com/images/I/5166GsaOFcL._AC_UL320_.jpg",
+      "made_in": "UK",
+      "certifications": [
+        "Vegan",
+        "Cruelty-Free"
+      ],
+      "stock_quantity": 180,
+      "shipping_info": "Ships within 3-5 business days"
+    },
+    {
+      "id": "17",
+      "name": "Keflex (Cephalexin)",
+      "active_ingredient": "Cephalexin",
+      "description": "Used to treat bacterial infections of the respiratory tract, skin, bones, and urinary tract.",
+      "price": 55,
+      "category": "Anti-infective Agents",
+      "type": "Cephalosporin Antibiotic (1st Gen)",
+      "product_type": "Medicines",
+      "careInstructions": "Complete the full course of treatment.",
+      "image": "https://res.cloudinary.com/dah254u09/image/upload/NaTfUZfpnXqa_ahij3l.jpg",
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.3,
+        "total_reviews": 113,
+        "ratings_distribution": {
+          "1": 4,
+          "2": 6,
+          "3": 11,
+          "4": 27,
+          "5": 65
+        }
+      },
+      "manufacturer_name": "Eli Lilly",
+      "made_in": "USA/Global",
+      "ingredient_list": "Cephalexin Monohydrate, Cellulose, Magnesium Stearate, Titanium Dioxide, Iron Oxide."
+    },
+    {
+      "id": "18",
+      "name": "Infusion Pump",
+      "model": "Model-1005",
+      "manufacturer": "OrthoMed",
+      "brand": "FluidDrip",
+      "description": "Delivers precise amounts of medication and fluids to patients under medical supervision.",
+      "price": 895,
+      "category": "Laboratory",
+      "type": "Laboratory Equipment",
+      "product_type": "Devices",
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 3.97,
+        "total_reviews": 65,
+        "ratings_distribution": {
+          "1": 6,
+          "2": 3,
+          "3": 7,
+          "4": 20,
+          "5": 29
+        }
+      },
+      "careInstructions": "Use only compatible infusion sets and program the pump accurately.",
+      "image": "https://res.cloudinary.com/dx4zjyfvt/image/upload/v1761985888/15716357135Infusion___Syringe_Pump_-_Flogard_Grand_h8poro.jpg"
+    },
+    {
+      "id": "19",
+      "name": "Neutrogena Daily Moisturizer",
+      "brand": "Neutrogena",
+      "active_ingredient": "Glycerin, Hyaluronic Acid",
+      "description": "A Daily Moisturizer by Neutrogena suitable for Dry, Sensitive. Helps improve skin health and appearance.",
+      "price": 12.49,
+      "currency": "USD",
+      "category": "Moisturizers",
+      "type": "Daily Moisturizer",
+      "product_type": "Cosmetics",
+      "skin_type": [
+        "Dry",
+        "Sensitive"
+      ],
+      "benefits": [
+        "Moisturizes deeply",
+        "Smooths skin texture",
+        "Non-comedogenic"
+      ],
+      "how_to_use": "Apply as directed on clean skin.",
+      "ingredients_list": [
+        "Water",
+        "Glycerin",
+        "Emollients",
+        "Botanical Extracts"
+      ],
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.6,
+        "total_reviews": 400,
+        "ratings_distribution": {
+          "1": 5,
+          "2": 15,
+          "3": 30,
+          "4": 100,
+          "5": 250
+        },
+        "top_positive_review": "Leaves skin soft and glowing!",
+        "top_negative_review": "A bit heavy for oily skin."
+      },
+      "careInstructions": "Use morning and night as needed.",
+      "image": "https://m.media-amazon.com/images/I/61+lUCM6GJL._SX425_.jpg",
+      "made_in": "USA",
+      "certifications": [
+        "Dermatologist Tested",
+        "Non-Comedogenic"
+      ],
+      "stock_quantity": 180,
+      "shipping_info": "Free shipping for orders over $50"
+    },
+    {
+      "id": "20",
+      "name": "Cipro (Ciprofloxacin)",
+      "active_ingredient": "Ciprofloxacin",
+      "description": "A broad-spectrum antibiotic used for various bacterial infections, especially urinary tract infections, respiratory infections, and skin infections.",
+      "price": 55,
+      "category": "Anti-infective Agents",
+      "type": "Fluoroquinolone Antibiotic",
+      "product_type": "Medicines",
+      "careInstructions": "Complete the full course of treatment.",
+      "image": "https://res.cloudinary.com/dah254u09/image/upload/xFuNygwsLNm8_owlyja.jpg",
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.4,
+        "total_reviews": 324,
+        "ratings_distribution": {
+          "1": 10,
+          "2": 9,
+          "3": 21,
+          "4": 94,
+          "5": 190
+        }
+      },
+      "manufacturer_name": "Bayer",
+      "made_in": "Germany/Global",
+      "ingredient_list": "Ciprofloxacin Hydrochloride, Cornstarch, Microcrystalline Cellulose, Silicon Dioxide, Crospovidone, Magnesium Stearate."
+    },
+    {
+      "id": "21",
+      "name": "Blood Glucose Meter",
+      "model": "Model-1006",
+      "manufacturer": "UltraScan",
+      "brand": "GlucoFast",
+      "description": "Portable glucose meter for fast and reliable blood sugar readings.",
+      "price": 1050,
+      "category": "Mobility",
+      "type": "Mobility Aid",
+      "product_type": "Devices",
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.01,
+        "total_reviews": 80,
+        "ratings_distribution": {
+          "1": 6,
+          "2": 4,
+          "3": 9,
+          "4": 25,
+          "5": 36
+        }
+      },
+      "careInstructions": "Replace test strips regularly and store the meter in a dry environment.",
+      "image": "https://res.cloudinary.com/dx4zjyfvt/image/upload/v1761985944/4suresmartmeterkit1k_uged8z.webp"
+    },
+    {
+      "id": "22",
+      "name": "Eucerin Balancing Toner",
+      "brand": "Eucerin",
+      "active_ingredient": "Niacinamide, Panthenol",
+      "description": "A Balancing Toner by Eucerin suitable for Oily, Combination. Helps improve skin health and appearance.",
+      "price": 15.75,
+      "currency": "USD",
+      "category": "Toners",
+      "type": "Balancing Toner",
+      "product_type": "Cosmetics",
+      "skin_type": [
+        "Oily",
+        "Combination"
+      ],
+      "benefits": [
+        "Balances skin tone",
+        "Reduces oiliness",
+        "Soothes irritation"
+      ],
+      "how_to_use": "Apply as directed on clean skin.",
+      "ingredients_list": [
+        "Water",
+        "Glycerin",
+        "Botanical Extracts"
+      ],
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.4,
+        "total_reviews": 220,
+        "ratings_distribution": {
+          "1": 5,
+          "2": 5,
+          "3": 20,
+          "4": 60,
+          "5": 130
+        },
+        "top_positive_review": "Leaves skin soft and glowing!",
+        "top_negative_review": "A bit heavy for oily skin."
+      },
+      "careInstructions": "Use morning and night as needed.",
+      "image": "https://m.media-amazon.com/images/I/61V1nmkg2eL._SX425_.jpg",
+      "made_in": "Germany",
+      "certifications": [
+        "Dermatologist Tested"
+      ],
+      "stock_quantity": 140,
+      "shipping_info": "Ships within 3-5 business days"
+    },
+    {
+      "id": "23",
+      "name": "Lipitor (Atorvastatin)",
+      "active_ingredient": "Atorvastatin",
+      "description": "Used to lower high levels of LDL (\"bad\") cholesterol and triglycerides in the blood, and to raise HDL (\"good\") cholesterol. It helps prevent heart disease and stroke.",
+      "price": 150,
+      "discount": 8,
+      "dealEnd": "2026-01-20T23:59:59",
+      "category": "Cardiovascular System (CVS)",
+      "type": "Statin (Cholesterol Lowering)",
+      "product_type": "Medicines",
+      "careInstructions": "Consult a physician for dosage and use.",
+      "image": "https://res.cloudinary.com/dah254u09/image/upload/Fn2ubIBWkPbJ_ivmq3k.jpg",
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.2,
+        "total_reviews": 152,
+        "ratings_distribution": {
+          "1": 1,
+          "2": 8,
+          "3": 19,
+          "4": 50,
+          "5": 74
+        }
+      },
+      "manufacturer_name": "Pfizer",
+      "made_in": "USA/Global",
+      "ingredient_list": "Atorvastatin Calcium, Calcium Carbonate, Candelilla Wax, Croscarmellose Sodium, Hydroxypropyl Cellulose, Lactose Monohydrate, Magnesium Stearate, Microcrystalline Cellulose, Opadry White."
+    },
+    {
+      "id": "24",
+      "name": "Portable Ultrasound Scanner",
+      "model": "Model-1007",
+      "manufacturer": "Clinica",
+      "brand": "SonoView",
+      "description": "Compact ultrasound device providing instant imaging for field and clinic use.",
+      "price": 960,
+      "category": "Dental",
+      "type": "Dental Equipment",
+      "product_type": "Devices",
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.04,
+        "total_reviews": 95,
+        "ratings_distribution": {
+          "1": 6,
+          "2": 5,
+          "3": 11,
+          "4": 30,
+          "5": 43
+        }
+      },
+      "careInstructions": "Keep away from moisture, and update software when available.",
+      "image": "https://res.cloudinary.com/dx4zjyfvt/image/upload/v1761986008/Portable-Ultrasound-Scanner-for-Home-Use_havt2s.avif"
+    },
+    {
+      "id": "25",
+      "name": "Crestor (Rosuvastatin)",
+      "active_ingredient": "Rosuvastatin",
+      "description": "One of the most potent statins, used to reduce LDL cholesterol and triglycerides, and to slow the progression of atherosclerosis.",
+      "price": 225,
+      "discount": 15,
+      "dealEnd": "2026-01-20T23:59:59",
+      "category": "Cardiovascular System (CVS)",
+      "type": "Statin (Cholesterol Lowering)",
+      "product_type": "Medicines",
+      "careInstructions": "Consult a physician for dosage and use.",
+      "image": "https://res.cloudinary.com/dah254u09/image/upload/0dRA3BOpXzoj_a0mxjk.jpg",
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.4,
+        "total_reviews": 473,
+        "ratings_distribution": {
+          "1": 10,
+          "2": 12,
+          "3": 29,
+          "4": 150,
+          "5": 272
+        }
+      },
+      "manufacturer_name": "AstraZeneca",
+      "made_in": "UK/Global",
+      "ingredient_list": "Rosuvastatin Calcium, Lactose Monohydrate, Microcrystalline Cellulose, Triacetin, Titanium Dioxide, Iron Oxide Yellow."
+    },
+    {
+      "id": "26",
+      "name": "Vichy Detox Mask",
+      "brand": "Vichy",
+      "active_ingredient": "Kaolin, Charcoal",
+      "description": "A Detox Mask by Vichy suitable for All Skin Types. Helps improve skin health and appearance.",
+      "price": 18.99,
+      "currency": "USD",
+      "category": "Face Masks",
+      "type": "Detox Mask",
+      "product_type": "Cosmetics",
+      "skin_type": [
+        "All Skin Types"
+      ],
+      "benefits": [
+        "Detoxifies",
+        "Removes impurities",
+        "Brightens complexion"
+      ],
+      "how_to_use": "Apply as directed on clean skin.",
+      "ingredients_list": [
+        "Kaolin",
+        "Charcoal",
+        "Water",
+        "Glycerin"
+      ],
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.7,
+        "total_reviews": 300,
+        "ratings_distribution": {
+          "1": 5,
+          "2": 5,
+          "3": 20,
+          "4": 90,
+          "5": 180
+        },
+        "top_positive_review": "Leaves skin soft and glowing!",
+        "top_negative_review": "A bit strong for sensitive skin."
+      },
+      "careInstructions": "Use 2-3 times per week.",
+      "image": "https://m.media-amazon.com/images/I/41I90W9bHuL._SX342_SY445_QL70_FMwebp_.jpg",
+      "made_in": "France",
+      "certifications": [
+        "Dermatologist Tested",
+        "Non-Comedogenic"
+      ],
+      "stock_quantity": 130,
+      "shipping_info": "Free shipping for orders over $50"
+    },
+    {
+      "id": "27",
+      "name": "Mobile X-Ray Machine",
+      "model": "Model-1008",
+      "manufacturer": "SafeLife",
+      "brand": "X-Field",
+      "description": "Portable X-ray system ideal for bone and chest imaging in emergency situations.",
+      "price": 1115,
+      "category": "Therapeutic",
+      "type": "Monitoring Device",
+      "product_type": "Devices",
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.03,
+        "total_reviews": 90,
+        "ratings_distribution": {
+          "1": 6,
+          "2": 5,
+          "3": 10,
+          "4": 28,
+          "5": 41
+        }
+      },
+      "careInstructions": "Ensure radiation shielding and operator safety training before use.",
+      "image": "https://res.cloudinary.com/dx4zjyfvt/image/upload/v1761986070/ACCORD-DR40-Digital-Radiographic-Motorised-Unit-Wolverson-Xray-Limited_dwl9hm.jpg"
+    },
+    {
+      "id": "28",
+      "name": "Zithromax (Azithromycin)",
+      "active_ingredient": "Azithromycin",
+      "description": "A common antibiotic used to treat various bacterial infections, such as respiratory infections, skin infections, and sexually transmitted diseases.",
+      "price": 75,
+      "category": "Anti-infective Agents",
+      "type": "Macrolide Antibiotic",
+      "product_type": "Medicines",
+      "careInstructions": "Complete the full course of treatment.",
+      "image": "https://res.cloudinary.com/dah254u09/image/upload/v1cLhSX6ugga_qlrrks.jpg",
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.4,
+        "total_reviews": 98,
+        "ratings_distribution": {
+          "1": 1,
+          "2": 4,
+          "3": 7,
+          "4": 30,
+          "5": 56
+        }
+      },
+      "manufacturer_name": "Pfizer",
+      "made_in": "USA/Global",
+      "ingredient_list": "Azithromycin Dihydrate, Dibasic Calcium Phosphate, Hydroxypropyl Cellulose, Lactose, Magnesium Stearate, Titanium Dioxide."
+    },
+    {
+      "id": "29",
+      "name": "Paula's Choice Anti-Aging Serum",
+      "brand": "Paula's Choice",
+      "active_ingredient": "Retinol, Peptides",
+      "description": "An Anti-Aging Serum by Paula's Choice suitable for Dry, Sensitive. Helps improve skin health and appearance.",
+      "price": 29.99,
+      "currency": "USD",
+      "category": "Serums",
+      "type": "Anti-Aging Serum",
+      "product_type": "Cosmetics",
+      "skin_type": [
+        "Dry",
+        "Sensitive"
+      ],
+      "benefits": [
+        "Reduces wrinkles",
+        "Boosts collagen",
+        "Smooths texture"
+      ],
+      "how_to_use": "Apply as directed on clean skin.",
+      "ingredients_list": [
+        "Retinol",
+        "Peptides",
+        "Water",
+        "Glycerin"
+      ],
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.8,
+        "total_reviews": 450,
+        "ratings_distribution": {
+          "1": 5,
+          "2": 5,
+          "3": 20,
+          "4": 120,
+          "5": 300
+        },
+        "top_positive_review": "Leaves skin soft and glowing!",
+        "top_negative_review": "Too strong for sensitive skin at first."
+      },
+      "careInstructions": "Use at night only.",
+      "image": "https://m.media-amazon.com/images/I/61sdQicm++L._SX522_.jpg",
+      "made_in": "USA",
+      "certifications": [
+        "Vegan",
+        "Cruelty-Free"
+      ],
+      "stock_quantity": 110,
+      "shipping_info": "Ships within 3-5 business days"
+    },
+    {
+      "id": "30",
+      "name": "ABG Analyzer",
+      "model": "Model-1009",
+      "manufacturer": "NeuroTech",
+      "brand": "GasCheck",
+      "description": "Analyzes blood gases such as O2, CO2, and pH for respiratory and metabolic assessments.",
+      "price": 1270,
+      "category": "Neonatal",
+      "type": "Diagnostic Device",
+      "product_type": "Devices",
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.06,
+        "total_reviews": 105,
+        "ratings_distribution": {
+          "1": 6,
+          "2": 6,
+          "3": 12,
+          "4": 33,
+          "5": 48
+        }
+      },
+      "careInstructions": "Perform calibration checks regularly and handle samples per lab safety protocols.",
+      "image": "https://res.cloudinary.com/dx4zjyfvt/image/upload/v1761986129/images_l0msjp.jpg"
+    },
+    {
+      "id": "31",
+      "name": "Concor (Bisoprolol)",
+      "active_ingredient": "Bisoprolol",
+      "description": "Prescribed for high blood pressure, angina (chest pain), and chronic heart failure. It works by slowing the heart rate and reducing the strain on the heart.",
+      "price": 85,
+      "discount": 20,
+      "dealEnd": "2026-01-20T23:59:59",
+      "category": "Cardiovascular System (CVS)",
+      "type": "Beta-Blocker",
+      "product_type": "Medicines",
+      "careInstructions": "Consult a physician for dosage and use.",
+      "image": "https://res.cloudinary.com/dah254u09/image/upload/ozj3HLjTL5Bs_c961l9.jpg",
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.2,
+        "total_reviews": 454,
+        "ratings_distribution": {
+          "1": 7,
+          "2": 15,
+          "3": 50,
+          "4": 169,
+          "5": 213
+        }
+      },
+      "manufacturer_name": "Merck",
+      "made_in": "Germany/Global",
+      "ingredient_list": "Bisoprolol Fumarate, Calcium Hydrogen Phosphate, Colloidal Anhydrous Silica, Croscarmellose Sodium, Hypromellose, Lactose Monohydrate, Macrogol, Magnesium Stearate, Microcrystalline Cellulose, Titanium Dioxide."
+    },
+    {
+      "id": "32",
+      "name": "Bioderma Hydrating Toner",
+      "brand": "Bioderma",
+      "active_ingredient": "Glycerin, Allantoin",
+      "description": "A Hydrating Toner by Bioderma suitable for Normal, Dry. Helps improve skin health and appearance.",
+      "price": 16.5,
+      "currency": "USD",
+      "category": "Toners",
+      "type": "Hydrating Toner",
+      "product_type": "Cosmetics",
+      "skin_type": [
+        "Normal",
+        "Dry"
+      ],
+      "benefits": [
+        "Balances skin tone",
+        "Soothes irritation",
+        "Hydrates deeply"
+      ],
+      "how_to_use": "Apply as directed on clean skin.",
+      "ingredients_list": [
+        "Water",
+        "Glycerin",
+        "Allantoin",
+        "Botanical Extracts"
+      ],
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.6,
+        "total_reviews": 250,
+        "ratings_distribution": {
+          "1": 5,
+          "2": 5,
+          "3": 20,
+          "4": 70,
+          "5": 150
+        },
+        "top_positive_review": "Leaves skin soft and glowing!",
+        "top_negative_review": "A bit heavy for oily skin."
+      },
+      "careInstructions": "Use morning and night as needed.",
+      "image": "https://m.media-amazon.com/images/I/51D9UzBWcqL._SX522_.jpg",
+      "made_in": "France",
+      "certifications": [
+        "Dermatologist Tested",
+        "Non-Comedogenic"
+      ],
+      "stock_quantity": 140,
+      "shipping_info": "Free shipping for orders over $50"
+    },
+    {
+      "id": "33",
+      "name": "Surgical Endoscope",
+      "model": "Model-1010",
+      "manufacturer": "LabMaster",
+      "brand": "OptiView",
+      "description": "Flexible optical device used for internal visual examination during surgical procedures.",
+      "price": 1425,
+      "category": "Monitoring",
+      "type": "Therapeutic Device",
+      "product_type": "Devices",
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.08,
+        "total_reviews": 120,
+        "ratings_distribution": {
+          "1": 6,
+          "2": 7,
+          "3": 14,
+          "4": 38,
+          "5": 55
+        }
+      },
+      "careInstructions": "Clean lenses carefully and avoid excessive bending of the flexible tube.",
+      "image": "https://res.cloudinary.com/dx4zjyfvt/image/upload/v1761986206/Diagnostic-Otorhinolaryngoscope-Video-Endoscope-Endoscopy-Instrument-Imaging-System-for-Surgery-Examination_b39lmp.avif"
+    },
+    {
+      "id": "34",
+      "name": "Neutrogena Brightening Cleanser",
+      "brand": "Neutrogena",
+      "active_ingredient": "Vitamin C, Glycerin",
+      "description": "A Brightening Cleanser by Neutrogena suitable for Normal, Combination. Helps improve skin health and appearance.",
+      "price": 13.75,
+      "currency": "USD",
+      "category": "Cleansers",
+      "type": "Brightening Cleanser",
+      "product_type": "Cosmetics",
+      "skin_type": [
+        "Normal",
+        "Combination"
+      ],
+      "benefits": [
+        "Brightens complexion",
+        "Cleans deeply",
+        "Hydrates"
+      ],
+      "how_to_use": "Apply as directed on clean skin.",
+      "ingredients_list": [
+        "Water",
+        "Glycerin",
+        "Vitamin C",
+        "Emollients"
+      ],
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.5,
+        "total_reviews": 300,
+        "ratings_distribution": {
+          "1": 5,
+          "2": 5,
+          "3": 20,
+          "4": 90,
+          "5": 180
+        },
+        "top_positive_review": "Leaves skin soft and glowing!",
+        "top_negative_review": "A bit strong for sensitive skin."
+      },
+      "careInstructions": "Use morning and night as needed.",
+      "image": "https://m.media-amazon.com/images/I/61QEs13s9-L._SX425_.jpg",
+      "made_in": "USA",
+      "certifications": [
+        "Dermatologist Tested",
+        "Non-Comedogenic"
+      ],
+      "stock_quantity": 150,
+      "shipping_info": "Ships within 3-5 business days"
+    },
+    {
+      "id": "35",
+      "name": "Ventolin (Salbutamol)",
+      "active_ingredient": "Salbutamol (Albuterol)",
+      "description": "Used for the quick relief of asthma symptoms and bronchospasm caused by reversible obstructive airway disease. It relaxes the muscles in the airways.",
+      "price": 55,
+      "discount": 22,
+      "dealEnd": "2026-01-20T23:59:59",
+      "category": "Anti-infective Agents",
+      "type": "Bronchodilator",
+      "product_type": "Medicines",
+      "careInstructions": "Use as needed for breathing difficulties.",
+      "image": "https://res.cloudinary.com/dah254u09/image/upload/SfisCfB7kcsY_msxwuf.jpg",
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.3,
+        "total_reviews": 425,
+        "ratings_distribution": {
+          "1": 5,
+          "2": 22,
+          "3": 45,
+          "4": 112,
+          "5": 241
+        }
+      },
+      "manufacturer_name": "GlaxoSmithKline",
+      "made_in": "UK/Global",
+      "ingredient_list": "Salbutamol Sulfate, Lactose Monohydrate (for inhaler) or Water (for solution)."
+    },
+    {
+      "id": "36",
+      "name": "Electric Wheelchair",
+      "model": "Model-1011",
+      "manufacturer": "SurgiEquip",
+      "brand": "MoveEase",
+      "description": "Durable electric wheelchair for both indoor and outdoor use with long battery life.",
+      "price": 1580,
+      "category": "Diagnostic",
+      "type": "Surgical Device",
+      "product_type": "Devices",
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.09,
+        "total_reviews": 135,
+        "ratings_distribution": {
+          "1": 6,
+          "2": 8,
+          "3": 16,
+          "4": 43,
+          "5": 62
+        }
+      },
+      "careInstructions": "Charge battery regularly and inspect safety straps before each use.",
+      "image": "https://res.cloudinary.com/dx4zjyfvt/image/upload/v1761986297/Pride-Jazzy-600-ES-Mid-Wheel-Power-Chair-Front-View_fr6lbn.webp"
+    },
+    {
+      "id": "37",
+      "name": "Zyrtec (Cetirizine)",
+      "active_ingredient": "Cetirizine",
+      "description": "Used to relieve symptoms of seasonal and chronic allergies, such as sneezing, runny nose, itchy eyes, and hives.",
+      "price": 30,
+      "category": "Anti-infective Agents",
+      "type": "Second-Generation Antihistamine",
+      "product_type": "Medicines",
+      "careInstructions": "Use as directed for allergy relief.",
+      "image": "https://res.cloudinary.com/dah254u09/image/upload/jMh1M84DxOLh_iwpylj.webp",
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.3,
+        "total_reviews": 465,
+        "ratings_distribution": {
+          "1": 17,
+          "2": 22,
+          "3": 45,
+          "4": 119,
+          "5": 262
+        }
+      },
+      "manufacturer_name": "UCB",
+      "made_in": "Belgium/Global",
+      "ingredient_list": "Cetirizine Dihydrochloride, Lactose Monohydrate, Microcrystalline Cellulose, Colloidal Anhydrous Silica, Magnesium Stearate."
+    },
+    {
+      "id": "38",
+      "name": "CeraVe Moisturizing Cream",
+      "brand": "CeraVe",
+      "active_ingredient": "Ceramides, Hyaluronic Acid",
+      "description": "A Moisturizing Cream by CeraVe suitable for Dry, Sensitive. Helps improve skin health and appearance.",
+      "price": 19.99,
+      "currency": "USD",
+      "category": "Moisturizers",
+      "type": "Moisturizing Cream",
+      "product_type": "Cosmetics",
+      "skin_type": [
+        "Dry",
+        "Sensitive"
+      ],
+      "benefits": [
+        "Deep hydration",
+        "Restores skin barrier",
+        "Non-greasy"
+      ],
+      "how_to_use": "Apply as directed on clean skin.",
+      "ingredients_list": [
+        "Water",
+        "Ceramides",
+        "Hyaluronic Acid",
+        "Emollients"
+      ],
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.8,
+        "total_reviews": 400,
+        "ratings_distribution": {
+          "1": 5,
+          "2": 15,
+          "3": 30,
+          "4": 100,
+          "5": 250
+        },
+        "top_positive_review": "Leaves skin soft and glowing!",
+        "top_negative_review": "Slightly thick for oily skin."
+      },
+      "careInstructions": "Use morning and night as needed.",
+      "image": "https://m.media-amazon.com/images/I/61pIL2maVKL._SX425_.jpg",
+      "made_in": "USA",
+      "certifications": [
+        "Dermatologist Tested",
+        "Fragrance-Free"
+      ],
+      "stock_quantity": 180,
+      "shipping_info": "Free shipping for orders over $50"
+    },
+    {
+      "id": "39",
+      "name": "EEG Machine",
+      "model": "Model-1012",
+      "manufacturer": "MedTech Co.",
+      "brand": "NeuroWave",
+      "description": "Records brain electrical activity to assist in neurological diagnosis.",
+      "price": 1735,
+      "category": "Respiratory",
+      "type": "Imaging Device",
+      "product_type": "Devices",
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.05,
+        "total_reviews": 130,
+        "ratings_distribution": {
+          "1": 8,
+          "2": 7,
+          "3": 15,
+          "4": 41,
+          "5": 59
+        }
+      },
+      "careInstructions": "Ensure proper electrode contact and avoid metal interference during testing.",
+      "image": "https://res.cloudinary.com/dx4zjyfvt/image/upload/v1761986372/Advanced-Ncc-EEG-ERP-Machine-for-Psg-with-CE-Certification_dokutq.avif"
+    },
+    {
+      "id": "40",
+      "name": "Lasix (Furosemide)",
+      "active_ingredient": "Furosemide",
+      "description": "A powerful diuretic (\"water pill\") used to treat fluid retention (edema) in people with congestive heart failure, liver disease, or kidney disorder.",
+      "price": 22,
+      "category": "Cardiovascular System (CVS)",
+      "type": "Loop Diuretic",
+      "product_type": "Medicines",
+      "careInstructions": "Consult a physician for dosage and use.",
+      "image": "https://res.cloudinary.com/dah254u09/image/upload/BPwwZ9IbnfB4_bm487y.png",
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.3,
+        "total_reviews": 399,
+        "ratings_distribution": {
+          "1": 14,
+          "2": 12,
+          "3": 25,
+          "4": 118,
+          "5": 230
+        }
+      },
+      "manufacturer_name": "Sanofi-Aventis",
+      "made_in": "France/Global",
+      "ingredient_list": "Furosemide, Lactose Monohydrate, Starch, Talc, Magnesium Stearate."
+    },
+    {
+      "id": "41",
+      "name": "The Ordinary Vitamin C Serum",
+      "brand": "The Ordinary",
+      "active_ingredient": "Vitamin C, Hyaluronic Acid",
+      "description": "A Vitamin C Serum by The Ordinary suitable for Normal, Dry, Combination. Helps improve skin health and appearance.",
+      "price": 12.99,
+      "currency": "USD",
+      "category": "Serums",
+      "type": "Vitamin C Serum",
+      "product_type": "Cosmetics",
+      "skin_type": [
+        "Normal",
+        "Dry",
+        "Combination"
+      ],
+      "benefits": [
+        "Brightens skin",
+        "Hydrates",
+        "Reduces dark spots"
+      ],
+      "how_to_use": "Apply a few drops morning and evening before creams.",
+      "ingredients_list": [
+        "Vitamin C",
+        "Hyaluronic Acid",
+        "Water",
+        "Glycerin"
+      ],
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.7,
+        "total_reviews": 350,
+        "ratings_distribution": {
+          "1": 5,
+          "2": 15,
+          "3": 30,
+          "4": 100,
+          "5": 200
+        },
+        "top_positive_review": "Leaves skin soft and glowing!",
+        "top_negative_review": "A bit sticky at first."
+      },
+      "careInstructions": "Use morning and night as needed.",
+      "image": "https://m.media-amazon.com/images/I/61CoGM8m3NL._SX522_.jpg",
+      "made_in": "Canada",
+      "certifications": [
+        "Vegan",
+        "Cruelty-Free"
+      ],
+      "stock_quantity": 150,
+      "shipping_info": "Ships within 3-5 business days"
+    },
+    {
+      "id": "42",
+      "name": "Laboratory Centrifuge",
+      "model": "Model-1013",
+      "manufacturer": "HealthPro",
+      "brand": "SpinLab",
+      "description": "Separates liquid and cellular components in laboratory samples efficiently.",
+      "price": 1890,
+      "category": "Imaging",
+      "type": "Laboratory Equipment",
+      "product_type": "Devices",
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.06,
+        "total_reviews": 145,
+        "ratings_distribution": {
+          "1": 8,
+          "2": 8,
+          "3": 17,
+          "4": 46,
+          "5": 66
+        }
+      },
+      "careInstructions": "Operate within safe speed limits and follow lab safety procedures.",
+      "image": "https://res.cloudinary.com/dx4zjyfvt/image/upload/v1761986482/%D8%AA%D9%86%D8%B2%D9%8A%D9%84_huttvj.jpg"
+    },
+    {
+      "id": "43",
+      "name": "Prednisolone (Prednisolone)",
+      "active_ingredient": "Prednisolone",
+      "description": "Used to treat a wide range of inflammatory and autoimmune conditions, including asthma, severe allergies, arthritis, and autoimmune diseases. It acts as a powerful anti-inflammatory agent.",
+      "price": 35,
+      "category": "Anti-infective Agents",
+      "type": "Corticosteroid",
+      "product_type": "Medicines",
+      "careInstructions": "Use under medical supervision. Do not stop abruptly.",
+      "image": "https://res.cloudinary.com/dah254u09/image/upload/vrMhKXX4a93I_knlc26.jpg",
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.2,
+        "total_reviews": 286,
+        "ratings_distribution": {
+          "1": 9,
+          "2": 13,
+          "3": 33,
+          "4": 78,
+          "5": 153
+        }
+      },
+      "manufacturer_name": "Generic (Various)",
+      "made_in": "Global",
+      "ingredient_list": "Prednisolone, Lactose Monohydrate, Corn Starch, Magnesium Stearate."
+    },
+    {
+      "id": "44",
+      "name": "La Roche-Posay Effaclar Cleanser",
+      "brand": "La Roche-Posay",
+      "active_ingredient": "Salicylic Acid, Zinc",
+      "description": "A Cleanser by La Roche-Posay suitable for Oily, Combination. Helps improve skin health and appearance.",
+      "price": 17.5,
+      "currency": "USD",
+      "category": "Cleansers",
+      "type": "Effaclar Cleanser",
+      "product_type": "Cosmetics",
+      "skin_type": [
+        "Oily",
+        "Combination"
+      ],
+      "benefits": [
+        "Removes impurities",
+        "Reduces blemishes",
+        "Balances oil"
+      ],
+      "how_to_use": "Apply as directed on wet skin.",
+      "ingredients_list": [
+        "Salicylic Acid",
+        "Zinc PCA",
+        "Water",
+        "Glycerin"
+      ],
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.6,
+        "total_reviews": 280,
+        "ratings_distribution": {
+          "1": 10,
+          "2": 10,
+          "3": 20,
+          "4": 80,
+          "5": 160
+        },
+        "top_positive_review": "Leaves skin soft and glowing!",
+        "top_negative_review": "A bit drying for sensitive skin."
+      },
+      "careInstructions": "Use morning and night as needed.",
+      "image": "https://m.media-amazon.com/images/I/71JWbDFDOyL._SX522_.jpg",
+      "made_in": "France",
+      "certifications": [
+        "Dermatologist Tested",
+        "Non-Comedogenic"
+      ],
+      "stock_quantity": 140,
+      "shipping_info": "Free shipping for orders over $50"
+    },
+    {
+      "id": "45",
+      "name": "Autoclave Sterilizer",
+      "model": "Model-1014",
+      "manufacturer": "BioCare",
+      "brand": "SterilePro",
+      "description": "Sterilizes medical instruments using high-pressure steam for infection control.",
+      "price": 1800,
+      "category": "Surgical",
+      "type": "Mobility Aid",
+      "product_type": "Devices",
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.08,
+        "total_reviews": 160,
+        "ratings_distribution": {
+          "1": 8,
+          "2": 9,
+          "3": 19,
+          "4": 51,
+          "5": 73
+        }
+      },
+      "careInstructions": "Monitor temperature and pressure regularly and perform scheduled maintenance.",
+      "image": "https://res.cloudinary.com/dx4zjyfvt/image/upload/v1761986482/%D8%AA%D9%86%D8%B2%D9%8A%D9%84_huttvj.jpg"
+    },
+    {
+      "id": "46",
+      "name": "Aspirin (Acetylsalicylic Acid)",
+      "active_ingredient": "Acetylsalicylic Acid",
+      "description": "Used as a pain reliever, fever reducer, and anti-inflammatory drug. Low doses are primarily used to prevent heart attacks and strokes by inhibiting platelet aggregation.",
+      "price": 10,
+      "category": "Cardiovascular System (CVS)",
+      "type": "NSAID / Antiplatelet",
+      "product_type": "Medicines",
+      "careInstructions": "Consult a physician for dosage and use.",
+      "image": "https://res.cloudinary.com/dah254u09/image/upload/76w85EBVh8W1_t2l2dt.jpg",
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.5,
+        "total_reviews": 170,
+        "ratings_distribution": {
+          "1": 4,
+          "2": 5,
+          "3": 11,
+          "4": 36,
+          "5": 114
+        }
+      },
+      "manufacturer_name": "Bayer",
+      "made_in": "Germany/Global",
+      "ingredient_list": "Acetylsalicylic Acid, Corn Starch, Powdered Cellulose, Triacetin."
+    },
+    {
+      "id": "47",
+      "name": "Neutrogena Oil-Free Moisturizer",
+      "brand": "Neutrogena",
+      "active_ingredient": "Glycerin, Dimethicone",
+      "description": "An Oil-Free Moisturizer by Neutrogena suitable for Oily, Combination. Helps improve skin health and appearance.",
+      "price": 11.99,
+      "currency": "USD",
+      "category": "Moisturizers",
+      "type": "Oil-Free Moisturizer",
+      "product_type": "Cosmetics",
+      "skin_type": [
+        "Oily",
+        "Combination"
+      ],
+      "benefits": [
+        "Hydrates without grease",
+        "Smooths skin",
+        "Non-comedogenic"
+      ],
+      "how_to_use": "Apply as directed on clean skin.",
+      "ingredients_list": [
+        "Glycerin",
+        "Dimethicone",
+        "Water",
+        "Emollients"
+      ],
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.5,
+        "total_reviews": 300,
+        "ratings_distribution": {
+          "1": 5,
+          "2": 10,
+          "3": 25,
+          "4": 80,
+          "5": 180
+        },
+        "top_positive_review": "Leaves skin soft and glowing!",
+        "top_negative_review": "Feels light, may need layering."
+      },
+      "careInstructions": "Use morning and night as needed.",
+      "image": "https://m.media-amazon.com/images/I/6139DKhA2iL._SX425_.jpg",
+      "made_in": "USA",
+      "certifications": [
+        "Dermatologist Tested",
+        "Non-Comedogenic"
+      ],
+      "stock_quantity": 160,
+      "shipping_info": "Ships within 3-5 business days"
+    },
+    {
+      "id": "48",
+      "name": "Medical Laser Hair Removal Device",
+      "model": "Model-1015",
+      "manufacturer": "MediSys",
+      "brand": "AestheticLite",
+      "description": "Professional-grade laser system for safe and effective hair removal in medical clinics.",
+      "price": 1955,
+      "category": "Laboratory",
+      "type": "Dental Equipment",
+      "product_type": "Devices",
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.09,
+        "total_reviews": 175,
+        "ratings_distribution": {
+          "1": 8,
+          "2": 10,
+          "3": 21,
+          "4": 56,
+          "5": 80
+        }
+      },
+      "careInstructions": "Wear eye protection and follow safe laser operation guidelines.",
+      "image": "https://res.cloudinary.com/dx4zjyfvt/image/upload/v1762036002/Screenshot2025-02-26125631_zeethg.webp"
+    },
+    {
+      "id": "49",
+      "name": "Tamiflu (Oseltamivir)",
+      "active_ingredient": "Oseltamivir",
+      "description": "Used to treat and prevent influenza (flu) in people who have had symptoms for no more than two days.",
+      "price": 200,
+      "category": "Anti-infective Agents",
+      "type": "Antiviral (Neuraminidase Inhibitor)",
+      "product_type": "Medicines",
+      "careInstructions": "Consult a physician for use.",
+      "image": "https://res.cloudinary.com/dah254u09/image/upload/ZQzFm9AsCNvq_gmysq8.jpg",
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.4,
+        "total_reviews": 366,
+        "ratings_distribution": {
+          "1": 5,
+          "2": 16,
+          "3": 21,
+          "4": 121,
+          "5": 203
+        }
+      },
+      "manufacturer_name": "Roche",
+      "made_in": "Switzerland/Global",
+      "ingredient_list": "Oseltamivir Phosphate, Povidone, Croscarmellose Sodium, Sodium Stearyl Fumarate, Talc."
+    },
+    {
+      "id": "50",
+      "name": "Doxycycline (Doxycycline)",
+      "active_ingredient": "Doxycycline",
+      "description": "A broad-spectrum antibiotic used to treat various bacterial infections, including respiratory, skin, and urinary tract infections, as well as acne and malaria prophylaxis.",
+      "price": 30,
+      "category": "Anti-infective Agents",
+      "type": "Tetracycline Antibiotic",
+      "product_type": "Medicines",
+      "careInstructions": "Avoid direct sunlight. Complete the full course of treatment.",
+      "image": "https://res.cloudinary.com/dah254u09/image/upload/anvKKrFFr0VE_fpjqht.webp",
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.4,
+        "total_reviews": 290,
+        "ratings_distribution": {
+          "1": 5,
+          "2": 6,
+          "3": 31,
+          "4": 80,
+          "5": 168
+        }
+      },
+      "manufacturer_name": "Generic (Various)",
+      "made_in": "Global",
+      "ingredient_list": "Doxycycline Hyclate, Lactose Monohydrate, Microcrystalline Cellulose, Magnesium Stearate."
+    },
+    {
+      "id": "51",
+      "name": "Bone Densitometer (DEXA)",
+      "model": "Model-1016",
+      "manufacturer": "Sterilix",
+      "brand": "OssaScan",
+      "description": "Measures bone density to diagnose and monitor osteoporosis.",
+      "price": 2110,
+      "category": "Mobility",
+      "type": "Monitoring Device",
+      "product_type": "Devices",
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.08,
+        "total_reviews": 170,
+        "ratings_distribution": {
+          "1": 8,
+          "2": 10,
+          "3": 20,
+          "4": 54,
+          "5": 78
+        }
+      },
+      "careInstructions": "Calibrate periodically and interpret results with specialist assistance.",
+      "image": "https://res.cloudinary.com/dx4zjyfvt/image/upload/v1762036123/InAlyzer-AIR-4-214_d30cfb735f2f553d0d2cc4ddcde418c4_p2n4ir.png"
+    },
+    {
+      "id": "52",
+      "name": "Eucerin Daily Hydrating Lotion",
+      "brand": "Eucerin",
+      "active_ingredient": "Glycerin, Panthenol",
+      "description": "A Daily Hydrating Lotion by Eucerin suitable for Dry, Sensitive. Helps improve skin health and appearance.",
+      "price": 15.5,
+      "currency": "USD",
+      "category": "Moisturizers",
+      "type": "Daily Hydrating Lotion",
+      "product_type": "Cosmetics",
+      "skin_type": [
+        "Dry",
+        "Sensitive"
+      ],
+      "benefits": [
+        "Moisturizes deeply",
+        "Restores skin barrier",
+        "Non-greasy"
+      ],
+      "how_to_use": "Apply as directed on clean skin.",
+      "ingredients_list": [
+        "Water",
+        "Glycerin",
+        "Panthenol",
+        "Emollients"
+      ],
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.6,
+        "total_reviews": 200,
+        "ratings_distribution": {
+          "1": 5,
+          "2": 5,
+          "3": 20,
+          "4": 50,
+          "5": 120
+        },
+        "top_positive_review": "Leaves skin soft and glowing!",
+        "top_negative_review": "Slightly thick for oily skin."
+      },
+      "careInstructions": "Use morning and night as needed.",
+      "image": "https://m.media-amazon.com/images/I/41YBqmOqSCL._SX425_.jpg",
+      "made_in": "Germany",
+      "certifications": [
+        "Dermatologist Tested",
+        "Fragrance-Free"
+      ],
+      "stock_quantity": 130,
+      "shipping_info": "Free shipping for orders over $50"
+    },
+    {
+      "id": "53",
+      "name": "Vichy Mineral Sunscreen SPF50",
+      "brand": "Vichy",
+      "active_ingredient": "Titanium Dioxide, Zinc Oxide",
+      "description": "A Mineral Sunscreen by Vichy suitable for All Skin Types. Helps improve skin health and appearance.",
+      "price": 24.99,
+      "currency": "USD",
+      "category": "Sunscreens",
+      "type": "Mineral Sunscreen SPF50",
+      "product_type": "Cosmetics",
+      "skin_type": [
+        "All Skin Types"
+      ],
+      "benefits": [
+        "Protects from UVA/UVB",
+        "Non-greasy",
+        "Sensitive skin safe"
+      ],
+      "how_to_use": "Apply generously before sun exposure.",
+      "ingredients_list": [
+        "Titanium Dioxide",
+        "Zinc Oxide",
+        "Water",
+        "Emollients"
+      ],
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.7,
+        "total_reviews": 320,
+        "ratings_distribution": {
+          "1": 5,
+          "2": 5,
+          "3": 20,
+          "4": 90,
+          "5": 200
+        },
+        "top_positive_review": "Leaves skin soft and glowing!",
+        "top_negative_review": "May leave white cast."
+      },
+      "careInstructions": "Reapply every 2 hours.",
+      "image": "https://m.media-amazon.com/images/I/71QouitPbdL._SX425_.jpg",
+      "made_in": "France",
+      "certifications": [
+        "Dermatologist Tested",
+        "Fragrance-Free"
+      ],
+      "stock_quantity": 140,
+      "shipping_info": "Free shipping for orders over $75"
+    },
+    {
+      "id": "54",
+      "name": "Defibrillator",
+      "model": "Model-1017",
+      "manufacturer": "OrthoMed",
+      "brand": "LifeSpark",
+      "description": "Delivers controlled electric shocks to restore normal heart rhythm in emergencies.",
+      "price": 2265,
+      "category": "Dental",
+      "type": "Diagnostic Device",
+      "product_type": "Devices",
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.09,
+        "total_reviews": 185,
+        "ratings_distribution": {
+          "1": 8,
+          "2": 11,
+          "3": 22,
+          "4": 59,
+          "5": 85
+        }
+      },
+      "careInstructions": "Train staff for emergency procedures and check battery and electrode conditions.",
+      "image": "https://res.cloudinary.com/dx4zjyfvt/image/upload/v1762036164/images_rgdwxa.jpg"
+    },
+    {
+      "id": "55",
+      "name": "Metformin (Metformin HCl ER)",
+      "active_ingredient": "Metformin Hydrochloride",
+      "description": "The first-line medication for type 2 diabetes, used to lower blood sugar levels by decreasing glucose production in the liver and improving insulin sensitivity.",
+      "price": 45,
+      "category": "Endocrine System Drugs",
+      "type": "Biguanide (Type 2 Diabetes)",
+      "product_type": "Medicines",
+      "careInstructions": "Consult a physician for dosage and use.",
+      "image": "https://res.cloudinary.com/dah254u09/image/upload/BjXhqJa5fvvG_lhvjdp.jpg",
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.4,
+        "total_reviews": 275,
+        "ratings_distribution": {
+          "1": 2,
+          "2": 5,
+          "3": 25,
+          "4": 89,
+          "5": 154
+        }
+      },
+      "manufacturer_name": "Generic (Various)",
+      "made_in": "Global",
+      "ingredient_list": "Metformin Hydrochloride, Ethylcellulose, Hydroxypropyl Cellulose, Hypromellose, Magnesium Stearate, Povidone, Triethyl Citrate."
+    },
+    {
+      "id": "56",
+      "name": "Paula's Choice Pore-Reducing Toner",
+      "brand": "Paula's Choice",
+      "active_ingredient": "Niacinamide, Witch Hazel",
+      "description": "A Pore-Reducing Toner by Paula's Choice suitable for Oily, Combination. Helps improve skin health and appearance.",
+      "price": 19.99,
+      "currency": "USD",
+      "category": "Toners",
+      "type": "Pore-Reducing Toner",
+      "product_type": "Cosmetics",
+      "skin_type": [
+        "Oily",
+        "Combination"
+      ],
+      "benefits": [
+        "Reduces pore size",
+        "Balances oil",
+        "Soothes skin"
+      ],
+      "how_to_use": "Apply with cotton pad morning and night.",
+      "ingredients_list": [
+        "Niacinamide",
+        "Witch Hazel",
+        "Water",
+        "Glycerin"
+      ],
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.5,
+        "total_reviews": 250,
+        "ratings_distribution": {
+          "1": 5,
+          "2": 5,
+          "3": 20,
+          "4": 70,
+          "5": 150
+        },
+        "top_positive_review": "Leaves skin soft and glowing!",
+        "top_negative_review": "A bit strong for sensitive skin."
+      },
+      "careInstructions": "Use morning and night as needed.",
+      "image": "https://m.media-amazon.com/images/I/619wBopsFLL._SX522_.jpg",
+      "made_in": "USA",
+      "certifications": [
+        "Vegan",
+        "Cruelty-Free"
+      ],
+      "stock_quantity": 120,
+      "shipping_info": "Ships within 3-5 business days"
+    },
+    {
+      "id": "57",
+      "name": "Automated Urine Analyzer",
+      "model": "Model-1018",
+      "manufacturer": "UltraScan",
+      "brand": "UroTest",
+      "description": "Automates urine testing with accurate readings for protein, glucose, and pH levels.",
+      "price": 2420,
+      "category": "Therapeutic",
+      "type": "Therapeutic Device",
+      "product_type": "Devices",
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.1,
+        "total_reviews": 200,
+        "ratings_distribution": {
+          "1": 8,
+          "2": 12,
+          "3": 24,
+          "4": 64,
+          "5": 92
+        }
+      },
+      "careInstructions": "Clean regularly and dispose of waste safely as per lab policy.",
+      "image": "https://res.cloudinary.com/dx4zjyfvt/image/upload/v1762036221/automated-urine-analyzer-940_z2zsoe.jpg"
+    },
+    {
+      "id": "58",
+      "name": "Levothyroxine (Thyroxine)",
+      "active_ingredient": "Levothyroxine Sodium",
+      "description": "Used to treat hypothyroidism (underactive thyroid) by replacing the hormone thyroxine that the thyroid gland is not producing enough of.",
+      "price": 35,
+      "category": "Endocrine System Drugs",
+      "type": "Thyroid Hormone Replacement",
+      "product_type": "Medicines",
+      "careInstructions": "Take on an empty stomach.",
+      "image": "https://res.cloudinary.com/dah254u09/image/upload/v5SsqSqCiagi_nhftmb.jpg",
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.3,
+        "total_reviews": 452,
+        "ratings_distribution": {
+          "1": 11,
+          "2": 22,
+          "3": 41,
+          "4": 124,
+          "5": 254
+        }
+      },
+      "manufacturer_name": "Generic (Various)",
+      "made_in": "Global",
+      "ingredient_list": "Levothyroxine Sodium, Microcrystalline Cellulose, Croscarmellose Sodium, Magnesium Stearate, Calcium Sulfate Dihydrate."
+    },
+    {
+      "id": "59",
+      "name": "Bioderma Sebium Mask",
+      "brand": "Bioderma",
+      "active_ingredient": "Kaolin, Salicylic Acid",
+      "description": "A Sebum-Reducing Mask by Bioderma suitable for Oily, Combination. Helps improve skin health and appearance.",
+      "price": 21.5,
+      "currency": "USD",
+      "category": "Face Masks",
+      "type": "Sebium Mask",
+      "product_type": "Cosmetics",
+      "skin_type": [
+        "Oily",
+        "Combination"
+      ],
+      "benefits": [
+        "Reduces oiliness",
+        "Detoxifies skin",
+        "Brightens complexion"
+      ],
+      "how_to_use": "Apply 1-2 times per week on clean skin.",
+      "ingredients_list": [
+        "Kaolin",
+        "Salicylic Acid",
+        "Water",
+        "Glycerin"
+      ],
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.6,
+        "total_reviews": 280,
+        "ratings_distribution": {
+          "1": 5,
+          "2": 10,
+          "3": 25,
+          "4": 80,
+          "5": 160
+        },
+        "top_positive_review": "Leaves skin soft and glowing!",
+        "top_negative_review": "A bit drying if overused."
+      },
+      "careInstructions": "Use 1-2 times per week.",
+      "image": "https://m.media-amazon.com/images/I/31ufRI+IJDL._SX342_SY445_QL70_FMwebp_.jpg",
+      "made_in": "France",
+      "certifications": [
+        "Dermatologist Tested",
+        "Non-Comedogenic"
+      ],
+      "stock_quantity": 130,
+      "shipping_info": "Free shipping for orders over $50"
+    },
+    {
+      "id": "60",
+      "name": "Dental Examination Chair",
+      "model": "Model-1019",
+      "manufacturer": "Clinica",
+      "brand": "DentiComfort",
+      "description": "Ergonomic dental chair with multiple adjustable positions for a complete dental setup.",
+      "price": 2575,
+      "category": "Neonatal",
+      "type": "Surgical Device",
+      "product_type": "Devices",
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.06,
+        "total_reviews": 215,
+        "ratings_distribution": {
+          "1": 12,
+          "2": 12,
+          "3": 25,
+          "4": 68,
+          "5": 98
+        }
+      },
+      "careInstructions": "Disinfect between patients and inspect electrical connections.",
+      "image": "https://res.cloudinary.com/dx4zjyfvt/image/upload/v1762036269/unnamed_av7laf.jpg"
+    },
+    {
+      "id": "61",
+      "name": "The Ordinary Retinol Serum",
+      "brand": "The Ordinary",
+      "active_ingredient": "Retinol",
+      "description": "A Retinol Serum by The Ordinary suitable for Dry, Sensitive. Helps improve skin health and appearance.",
+      "price": 13.99,
+      "currency": "USD",
+      "category": "Serums",
+      "type": "Retinol Serum",
+      "product_type": "Cosmetics",
+      "skin_type": [
+        "Dry",
+        "Sensitive"
+      ],
+      "benefits": [
+        "Reduces fine lines",
+        "Smooths skin",
+        "Boosts collagen"
+      ],
+      "how_to_use": "Apply a few drops at night before moisturizer.",
+      "ingredients_list": [
+        "Retinol",
+        "Glycerin",
+        "Water",
+        "Emollients"
+      ],
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.8,
+        "total_reviews": 350,
+        "ratings_distribution": {
+          "1": 5,
+          "2": 15,
+          "3": 30,
+          "4": 100,
+          "5": 200
+        },
+        "top_positive_review": "Leaves skin soft and glowing!",
+        "top_negative_review": "Can cause mild irritation at first."
+      },
+      "careInstructions": "Use at night only.",
+      "image": "https://m.media-amazon.com/images/I/41pe2sy2JqL._SX522_.jpg",
+      "made_in": "Canada",
+      "certifications": [
+        "Vegan",
+        "Cruelty-Free"
+      ],
+      "stock_quantity": 150,
+      "shipping_info": "Ships within 3-5 business days"
+    },
+    {
+      "id": "62",
+      "name": "Insulin Glargine (Lantus/Basaglar)",
+      "active_ingredient": "Insulin Glargine",
+      "description": "A long-acting basal insulin used to control high blood sugar in adults and children with diabetes mellitus. It provides a steady level of insulin over 24 hours.",
+      "price": 400,
+      "category": "Endocrine System Drugs",
+      "type": "Long-Acting Insulin",
+      "product_type": "Medicines",
+      "careInstructions": "Store in the refrigerator. Inject subcutaneously.",
+      "image": "https://res.cloudinary.com/dah254u09/image/upload/lAZrsi3ZCxF1_we8hbf.jpg",
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.4,
+        "total_reviews": 62,
+        "ratings_distribution": {
+          "1": 1,
+          "2": 1,
+          "3": 5,
+          "4": 21,
+          "5": 34
+        }
+      },
+      "manufacturer_name": "Sanofi/Eli Lilly",
+      "made_in": "France/USA",
+      "ingredient_list": "Insulin Glargine, Glycerin, m-Cresol, Polysorbate 20, Water for Injection."
+    },
+    {
+      "id": "63",
+      "name": "Laboratory Microscope",
+      "model": "Model-1020",
+      "manufacturer": "SafeLife",
+      "brand": "MicroView",
+      "description": "High-quality optical microscope designed for laboratory and educational use.",
+      "price": 2730,
+      "category": "Monitoring",
+      "type": "Imaging Device",
+      "product_type": "Devices",
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.08,
+        "total_reviews": 210,
+        "ratings_distribution": {
+          "1": 10,
+          "2": 12,
+          "3": 25,
+          "4": 67,
+          "5": 96
+        }
+      },
+      "careInstructions": "Clean lenses and calibrate routinely under technician supervision.",
+      "image": "https://res.cloudinary.com/dx4zjyfvt/image/upload/v1762036313/images_1_d6qrfn.jpg"
+    },
+    {
+      "id": "64",
+      "name": "Glimepiride (Amaryl)",
+      "active_ingredient": "Glimepiride",
+      "description": "Used to lower blood sugar by stimulating the pancreas to release insulin. It is often used in combination with Metformin.",
+      "price": 35,
+      "category": "Endocrine System Drugs",
+      "type": "Sulfonylurea (Type 2 Diabetes)",
+      "product_type": "Medicines",
+      "careInstructions": "Take with the first main meal of the day.",
+      "image": "https://res.cloudinary.com/dah254u09/image/upload/lbvoair2DRMA_gbfwbu.jpg",
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.4,
+        "total_reviews": 401,
+        "ratings_distribution": {
+          "1": 6,
+          "2": 12,
+          "3": 21,
+          "4": 140,
+          "5": 222
+        }
+      },
+      "manufacturer_name": "Sanofi-Aventis",
+      "made_in": "France/Global",
+      "ingredient_list": "Glimepiride, Lactose Monohydrate, Sodium Starch Glycolate, Povidone, Magnesium Stearate."
+    },
+    {
+      "id": "65",
+      "name": "La Roche-Posay Toleriane Moisturizer",
+      "brand": "La Roche-Posay",
+      "active_ingredient": "Ceramides, Niacinamide",
+      "description": "A Moisturizer by La Roche-Posay suitable for Sensitive, Dry. Helps improve skin health and appearance.",
+      "price": 22.99,
+      "currency": "USD",
+      "category": "Moisturizers",
+      "type": "Toleriane Moisturizer",
+      "product_type": "Cosmetics",
+      "skin_type": [
+        "Sensitive",
+        "Dry"
+      ],
+      "benefits": [
+        "Hydrates deeply",
+        "Soothes skin",
+        "Non-comedogenic"
+      ],
+      "how_to_use": "Apply morning and night after cleansing.",
+      "ingredients_list": [
+        "Water",
+        "Ceramides",
+        "Niacinamide",
+        "Emollients"
+      ],
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.7,
+        "total_reviews": 420,
+        "ratings_distribution": {
+          "1": 10,
+          "2": 10,
+          "3": 30,
+          "4": 120,
+          "5": 250
+        },
+        "top_positive_review": "Leaves skin soft and glowing!",
+        "top_negative_review": "Slightly thick for oily skin."
+      },
+      "careInstructions": "Use morning and night.",
+      "image": "https://m.media-amazon.com/images/I/51x78epntaL._SX522_.jpg",
+      "made_in": "France",
+      "certifications": [
+        "Dermatologist Tested",
+        "Fragrance-Free"
+      ],
+      "stock_quantity": 160,
+      "shipping_info": "Free shipping for orders over $75"
+    },
+    {
+      "id": "66",
+      "name": "Infant Incubator",
+      "model": "Model-1021",
+      "manufacturer": "NeuroTech",
+      "brand": "NeoWarm",
+      "description": "Provides a stable and controlled environment for newborns with temperature and humidity regulation.",
+      "price": 2640,
+      "category": "Diagnostic",
+      "type": "Laboratory Equipment",
+      "product_type": "Devices",
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.09,
+        "total_reviews": 225,
+        "ratings_distribution": {
+          "1": 10,
+          "2": 13,
+          "3": 27,
+          "4": 72,
+          "5": 103
+        }
+      },
+      "careInstructions": "Monitor incubator settings daily and maintain proper humidity and temperature.",
+      "image": "https://res.cloudinary.com/dx4zjyfvt/image/upload/v1762036386/70046-16391417_ljtnlu.jpg"
+    },
+    {
+      "id": "67",
+      "name": "Empagliflozin (Jardiance)",
+      "active_ingredient": "Empagliflozin",
+      "description": "Used to lower blood sugar and reduce the risk of cardiovascular death in adults with type 2 diabetes and established cardiovascular disease. It works by causing the kidneys to remove sugar from the body via urine.",
+      "price": 450,
+      "category": "Endocrine System Drugs",
+      "type": "SGLT2 Inhibitor (Type 2 Diabetes)",
+      "product_type": "Medicines",
+      "careInstructions": "Maintain adequate hydration.",
+      "image": "https://res.cloudinary.com/dah254u09/image/upload/jxhtxLkgDzst_wv5tcq.jpg",
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.3,
+        "total_reviews": 123,
+        "ratings_distribution": {
+          "1": 3,
+          "2": 3,
+          "3": 14,
+          "4": 31,
+          "5": 72
+        }
+      },
+      "manufacturer_name": "Boehringer Ingelheim/Eli Lilly",
+      "made_in": "Germany/USA",
+      "ingredient_list": "Empagliflozin, Lactose Monohydrate, Microcrystalline Cellulose, Colloidal Silicon Dioxide, Magnesium Stearate, Opadry Yellow."
+    },
+    {
+      "id": "68",
+      "name": "Neutrogena Bright Boost Mask",
+      "brand": "Neutrogena",
+      "active_ingredient": "Vitamin C, Glycerin",
+      "description": "A Bright Boost Mask by Neutrogena suitable for All Skin Types. Helps improve skin health and appearance.",
+      "price": 16.99,
+      "currency": "USD",
+      "category": "Face Masks",
+      "type": "Bright Boost Mask",
+      "product_type": "Cosmetics",
+      "skin_type": [
+        "All Skin Types"
+      ],
+      "benefits": [
+        "Brightens skin",
+        "Removes impurities",
+        "Hydrates"
+      ],
+      "how_to_use": "Apply 1-2 times per week on clean skin.",
+      "ingredients_list": [
+        "Vitamin C",
+        "Glycerin",
+        "Water",
+        "Kaolin"
+      ],
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.6,
+        "total_reviews": 300,
+        "ratings_distribution": {
+          "1": 5,
+          "2": 5,
+          "3": 20,
+          "4": 90,
+          "5": 180
+        },
+        "top_positive_review": "Leaves skin soft and glowing!",
+        "top_negative_review": "May feel slightly sticky."
+      },
+      "careInstructions": "Use 1-2 times per week.",
+      "image": "https://m.media-amazon.com/images/I/31hIDU3Xq0L._SY300_SX300_QL70_FMwebp_.jpg",
+      "made_in": "USA",
+      "certifications": [
+        "Dermatologist Tested",
+        "Non-Comedogenic"
+      ],
+      "stock_quantity": 140,
+      "shipping_info": "Ships within 3-5 business days"
+    },
+    {
+      "id": "69",
+      "name": "Surgical Suction Unit",
+      "model": "Model-1022",
+      "manufacturer": "LabMaster",
+      "brand": "ClearVac",
+      "description": "Removes fluids and blood during surgical procedures with reliable suction power.",
+      "price": 2795,
+      "category": "Respiratory",
+      "type": "Mobility Aid",
+      "product_type": "Devices",
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.08,
+        "total_reviews": 240,
+        "ratings_distribution": {
+          "1": 12,
+          "2": 14,
+          "3": 28,
+          "4": 76,
+          "5": 110
+        }
+      },
+      "careInstructions": "Sterilize tubing and inspect suction power before each surgery.",
+      "image": "https://res.cloudinary.com/dx4zjyfvt/image/upload/v1762036448/images_2_wyo1gs.jpg"
+    },
+    {
+      "id": "70",
+      "name": "Prednisone (Prednisone)",
+      "active_ingredient": "Prednisone",
+      "description": "A powerful anti-inflammatory and immunosuppressant drug used to treat a wide variety of conditions, including severe allergies, arthritis, and endocrine disorders.",
+      "price": 22,
+      "category": "Endocrine System Drugs",
+      "type": "Corticosteroid",
+      "product_type": "Medicines",
+      "careInstructions": "Consult a physician for tapering off the dose.",
+      "image": "https://res.cloudinary.com/dah254u09/image/upload/T5ntwPzopeja_z18td6.jpg",
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.1,
+        "total_reviews": 458,
+        "ratings_distribution": {
+          "1": 21,
+          "2": 22,
+          "3": 71,
+          "4": 125,
+          "5": 219
+        }
+      },
+      "manufacturer_name": "Generic (Various)",
+      "made_in": "Global",
+      "ingredient_list": "Prednisone, Lactose Monohydrate, Corn Starch, Magnesium Stearate."
+    },
+    {
+      "id": "71",
+      "name": "CeraVe PM Facial Moisturizing Lotion",
+      "brand": "CeraVe",
+      "active_ingredient": "Ceramides, Niacinamide",
+      "description": "A PM Facial Moisturizer by CeraVe suitable for Normal, Dry. Helps improve skin health and appearance.",
+      "price": 17.99,
+      "currency": "USD",
+      "category": "Moisturizers",
+      "type": "PM Facial Moisturizer",
+      "product_type": "Cosmetics",
+      "skin_type": [
+        "Normal",
+        "Dry"
+      ],
+      "benefits": [
+        "Hydrates overnight",
+        "Restores skin barrier",
+        "Non-comedogenic"
+      ],
+      "how_to_use": "Apply at night after cleansing.",
+      "ingredients_list": [
+        "Water",
+        "Ceramides",
+        "Niacinamide",
+        "Hyaluronic Acid"
+      ],
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.7,
+        "total_reviews": 350,
+        "ratings_distribution": {
+          "1": 5,
+          "2": 10,
+          "3": 25,
+          "4": 100,
+          "5": 210
+        },
+        "top_positive_review": "Leaves skin soft and glowing!",
+        "top_negative_review": "Might feel heavy on oily skin."
+      },
+      "careInstructions": "Use nightly.",
+      "image": "https://m.media-amazon.com/images/I/41XoPQ-0JPL._SY300_SX300_QL70_FMwebp_.jpg",
+      "made_in": "USA",
+      "certifications": [
+        "Dermatologist Tested",
+        "Non-Comedogenic"
+      ],
+      "stock_quantity": 160,
+      "shipping_info": "Free shipping for orders over $50"
+    },
+    {
+      "id": "72",
+      "name": "Spirometer",
+      "model": "Model-1023",
+      "manufacturer": "SurgiEquip",
+      "brand": "RespiraFlow",
+      "description": "Measures lung capacity and airflow to diagnose respiratory conditions.",
+      "price": 2950,
+      "category": "Imaging",
+      "type": "Dental Equipment",
+      "product_type": "Devices",
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.08,
+        "total_reviews": 255,
+        "ratings_distribution": {
+          "1": 12,
+          "2": 15,
+          "3": 30,
+          "4": 81,
+          "5": 117
+        }
+      },
+      "careInstructions": "Test airflow regularly and follow respiratory testing standards.",
+      "image": "https://res.cloudinary.com/dx4zjyfvt/image/upload/v1762036504/images_3_jug8yq.jpg"
+    },
+    {
+      "id": "73",
+      "name": "Glipizide (Glucotrol)",
+      "active_ingredient": "Glipizide",
+      "description": "Used to control high blood sugar in people with type 2 diabetes. It helps the body produce more insulin.",
+      "price": 30,
+      "category": "Endocrine System Drugs",
+      "type": "Sulfonylurea (Type 2 Diabetes)",
+      "product_type": "Medicines",
+      "careInstructions": "Take 30 minutes before a meal.",
+      "image": "https://res.cloudinary.com/dah254u09/image/upload/glu_k6djn4.avif",
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.3,
+        "total_reviews": 132,
+        "ratings_distribution": {
+          "1": 3,
+          "2": 3,
+          "3": 10,
+          "4": 52,
+          "5": 64
+        }
+      },
+      "manufacturer_name": "Pfizer",
+      "made_in": "USA/Global",
+      "ingredient_list": "Glipizide, Microcrystalline Cellulose, Lactose Monohydrate, Corn Starch, Colloidal Silicon Dioxide, Stearic Acid."
+    },
+    {
+      "id": "74",
+      "name": "The Ordinary Buffet Serum",
+      "brand": "The Ordinary",
+      "active_ingredient": "Peptides, Amino Acids",
+      "description": "A Multi-Technology Peptide Serum by The Ordinary suitable for All Skin Types. Helps improve skin health and appearance.",
+      "price": 14.99,
+      "currency": "USD",
+      "category": "Serums",
+      "type": "Peptide Serum",
+      "product_type": "Cosmetics",
+      "skin_type": [
+        "All Skin Types"
+      ],
+      "benefits": [
+        "Reduces wrinkles",
+        "Improves elasticity",
+        "Hydrates skin"
+      ],
+      "how_to_use": "Apply morning and night before moisturizer.",
+      "ingredients_list": [
+        "Peptides",
+        "Amino Acids",
+        "Water",
+        "Glycerin"
+      ],
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.8,
+        "total_reviews": 400,
+        "ratings_distribution": {
+          "1": 5,
+          "2": 5,
+          "3": 20,
+          "4": 120,
+          "5": 250
+        },
+        "top_positive_review": "Leaves skin soft and glowing!",
+        "top_negative_review": "Light texture may feel watery."
+      },
+      "careInstructions": "Use morning and night.",
+      "image": "https://m.media-amazon.com/images/I/31NQ28l5e4L._SX342_SY445_QL70_FMwebp_.jpg",
+      "made_in": "Canada",
+      "certifications": [
+        "Vegan",
+        "Cruelty-Free"
+      ],
+      "stock_quantity": 140,
+      "shipping_info": "Ships within 3-5 business days"
+    },
+    {
+      "id": "75",
+      "name": "Intracranial Pressure (ICP) Monitor",
+      "model": "Model-1024",
+      "manufacturer": "MedTech Co.",
+      "brand": "CranialSense",
+      "description": "Monitors intracranial pressure accurately for neurological surgery follow-ups.",
+      "price": 3105,
+      "category": "Surgical",
+      "type": "Monitoring Device",
+      "product_type": "Devices",
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.1,
+        "total_reviews": 250,
+        "ratings_distribution": {
+          "1": 10,
+          "2": 15,
+          "3": 30,
+          "4": 80,
+          "5": 115
+        }
+      },
+      "careInstructions": "Handle sensors carefully and ensure accurate reading calibration.",
+      "image": "https://res.cloudinary.com/dx4zjyfvt/image/upload/v1762036553/%D8%AA%D9%86%D8%B2%D9%8A%D9%84_m1bx3t.avif"
+    },
+    {
+      "id": "76",
+      "name": "Canagliflozin (Invokana)",
+      "active_ingredient": "Canagliflozin",
+      "description": "Works by blocking the reabsorption of glucose by the kidney, increasing glucose excretion, and lowering blood sugar levels.",
+      "price": 400,
+      "category": "Endocrine System Drugs",
+      "type": "SGLT2 Inhibitor (Type 2 Diabetes)",
+      "product_type": "Medicines",
+      "careInstructions": "Maintain adequate hydration.",
+      "image": "https://res.cloudinary.com/dah254u09/image/upload/Invokana6001PPS0_lhvm1w.jpg",
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.3,
+        "total_reviews": 496,
+        "ratings_distribution": {
+          "1": 8,
+          "2": 18,
+          "3": 36,
+          "4": 165,
+          "5": 269
+        }
+      },
+      "manufacturer_name": "Janssen",
+      "made_in": "USA/Global",
+      "ingredient_list": "Canagliflozin, Lactose Anhydrous, Microcrystalline Cellulose, Hydroxypropyl Cellulose, Croscarmellose Sodium, Magnesium Stearate."
+    },
+    {
+      "id": "77",
+      "name": "La Roche-Posay Hydraphase Mask",
+      "brand": "La Roche-Posay",
+      "active_ingredient": "Hyaluronic Acid, Glycerin",
+      "description": "A Hydrating Mask by La Roche-Posay suitable for Normal, Dry. Helps improve skin health and appearance.",
+      "price": 19.99,
+      "currency": "USD",
+      "category": "Face Masks",
+      "type": "Hydrating Mask",
+      "product_type": "Cosmetics",
+      "skin_type": [
+        "Normal",
+        "Dry"
+      ],
+      "benefits": [
+        "Hydrates deeply",
+        "Softens skin",
+        "Soothes irritation"
+      ],
+      "how_to_use": "Apply 1-2 times per week on clean skin.",
+      "ingredients_list": [
+        "Hyaluronic Acid",
+        "Glycerin",
+        "Water",
+        "Emollients"
+      ],
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.7,
+        "total_reviews": 300,
+        "ratings_distribution": {
+          "1": 5,
+          "2": 5,
+          "3": 20,
+          "4": 90,
+          "5": 180
+        },
+        "top_positive_review": "Leaves skin soft and glowing!",
+        "top_negative_review": "Mask may feel sticky for some."
+      },
+      "careInstructions": "Use 1-2 times per week.",
+      "image": "https://m.media-amazon.com/images/I/41SGvSrWdeL._SY300_SX300_QL70_FMwebp_.jpg",
+      "made_in": "France",
+      "certifications": [
+        "Dermatologist Tested",
+        "Fragrance-Free"
+      ],
+      "stock_quantity": 150,
+      "shipping_info": "Free shipping for orders over $50"
+    },
+    {
+      "id": "78",
+      "name": "Portable MRI Scanner (Compact Model)",
+      "model": "Model-1025",
+      "manufacturer": "HealthPro",
+      "brand": "MagniScan",
+      "description": "Compact MRI scanner designed for field diagnostics and rapid imaging.",
+      "price": 3260,
+      "category": "Laboratory",
+      "type": "Diagnostic Device",
+      "product_type": "Devices",
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.07,
+        "total_reviews": 265,
+        "ratings_distribution": {
+          "1": 14,
+          "2": 15,
+          "3": 31,
+          "4": 84,
+          "5": 121
+        }
+      },
+      "careInstructions": "Ensure magnetic safety protocols and remove metallic items before use.",
+      "image": "https://res.cloudinary.com/dx4zjyfvt/image/upload/v1762036624/New-Arrival-Ct-Scan-Machine-Medical-Xray-Machine-Digit-Dual-Energy-CT-Scan-Radiography-Diagnosis.jpg_300x300_csmmwc.avif"
+    },
+    {
+      "id": "79",
+      "name": "Liraglutide (Victoza)",
+      "active_ingredient": "Liraglutide",
+      "description": "An injectable medication used to improve blood sugar control and reduce the risk of major cardiovascular events in adults with type 2 diabetes.",
+      "price": 1000,
+      "category": "Endocrine System Drugs",
+      "type": "GLP-1 Receptor Agonist (Type 2 Diabetes)",
+      "product_type": "Medicines",
+      "careInstructions": "Inject subcutaneously once daily.",
+      "image": "https://res.cloudinary.com/dah254u09/image/upload/EQ28HoIjvSwS_l3ccih.jpg",
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.2,
+        "total_reviews": 464,
+        "ratings_distribution": {
+          "1": 12,
+          "2": 14,
+          "3": 60,
+          "4": 160,
+          "5": 218
+        }
+      },
+      "manufacturer_name": "Novo Nordisk",
+      "made_in": "Denmark/Global",
+      "ingredient_list": "Liraglutide, Disodium Phosphate Dihydrate, Propylene Glycol, Phenol, Water for Injection."
+    },
+    {
+      "id": "80",
+      "name": "Thyroxine (Eltroxin)",
+      "active_ingredient": "Levothyroxine Sodium",
+      "description": "Another brand of Levothyroxine, used for the long-term treatment of hypothyroidism.",
+      "price": 35,
+      "category": "Endocrine System Drugs",
+      "type": "Thyroid Hormone Replacement",
+      "product_type": "Medicines",
+      "careInstructions": "Take on an empty stomach.",
+      "image": "https://res.cloudinary.com/dah254u09/image/upload/zMvSUBrIdbNt_k6mewc.jpg",
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.1,
+        "total_reviews": 364,
+        "ratings_distribution": {
+          "1": 17,
+          "2": 32,
+          "3": 30,
+          "4": 118,
+          "5": 167
+        }
+      },
+      "manufacturer_name": "Generic (Various)",
+      "made_in": "Global",
+      "ingredient_list": "Levothyroxine Sodium, Lactose Monohydrate, Maize Starch, Gelatin, Magnesium Stearate."
+    },
+    {
+      "id": "81",
+      "name": "Portable CT Scanner (Compact Model)",
+      "model": "Model-1026",
+      "manufacturer": "BioCare",
+      "brand": "Tomoscan",
+      "description": "Portable CT scanner for use in remote locations and emergency field hospitals.",
+      "price": 3415,
+      "category": "Mobility",
+      "type": "Therapeutic Device",
+      "product_type": "Devices",
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.08,
+        "total_reviews": 280,
+        "ratings_distribution": {
+          "1": 14,
+          "2": 16,
+          "3": 33,
+          "4": 89,
+          "5": 128
+        }
+      },
+      "careInstructions": "Follow radiation protection measures and ensure regular maintenance checks.",
+      "image": "https://res.cloudinary.com/dx4zjyfvt/image/upload/v1762036653/siemens-healthineers_CT_SOMATOM-On.site_Product-Image_wchaei.webp"
+    },
+    {
+      "id": "82",
+      "name": "Neutrogena Rapid Clear Toner",
+      "brand": "Neutrogena",
+      "active_ingredient": "Salicylic Acid",
+      "description": "A Rapid Clear Toner by Neutrogena suitable for Oily, Combination. Helps improve skin health and appearance.",
+      "price": 12.5,
+      "currency": "USD",
+      "category": "Toners",
+      "type": "Rapid Clear Toner",
+      "product_type": "Cosmetics",
+      "skin_type": [
+        "Oily",
+        "Combination"
+      ],
+      "benefits": [
+        "Reduces blemishes",
+        "Removes excess oil",
+        "Prevents breakouts"
+      ],
+      "how_to_use": "Apply with cotton pad morning and night.",
+      "ingredients_list": [
+        "Salicylic Acid",
+        "Water",
+        "Glycerin",
+        "Emollients"
+      ],
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.6,
+        "total_reviews": 250,
+        "ratings_distribution": {
+          "1": 5,
+          "2": 5,
+          "3": 20,
+          "4": 70,
+          "5": 150
+        },
+        "top_positive_review": "Leaves skin soft and glowing!",
+        "top_negative_review": "A bit strong for sensitive skin."
+      },
+      "careInstructions": "Use morning and night.",
+      "image": "https://m.media-amazon.com/images/I/81-jecTRd-L._SX425_.jpg",
+      "made_in": "USA",
+      "certifications": [
+        "Dermatologist Tested",
+        "Non-Comedogenic"
+      ],
+      "stock_quantity": 140,
+      "shipping_info": "Ships within 3-5 business days"
+    },
+    {
+      "id": "83",
+      "name": "The Ordinary Hyaluronic Acid Serum",
+      "brand": "The Ordinary",
+      "active_ingredient": "Hyaluronic Acid",
+      "description": "A Hyaluronic Acid Serum by The Ordinary suitable for All Skin Types. Helps improve skin health and appearance.",
+      "price": 11.99,
+      "currency": "USD",
+      "category": "Serums",
+      "type": "Hydrating Serum",
+      "product_type": "Cosmetics",
+      "skin_type": [
+        "All Skin Types"
+      ],
+      "benefits": [
+        "Hydrates",
+        "Plumps skin",
+        "Smooths texture"
+      ],
+      "how_to_use": "Apply a few drops morning and night.",
+      "ingredients_list": [
+        "Hyaluronic Acid",
+        "Water",
+        "Glycerin",
+        "Emollients"
+      ],
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.8,
+        "total_reviews": 350,
+        "ratings_distribution": {
+          "1": 5,
+          "2": 5,
+          "3": 20,
+          "4": 100,
+          "5": 220
+        },
+        "top_positive_review": "Leaves skin soft and glowing!",
+        "top_negative_review": "Light texture may feel watery."
+      },
+      "careInstructions": "Use morning and night.",
+      "image": "https://m.media-amazon.com/images/I/61eH32lVpdL._SX522_.jpg",
+      "made_in": "Canada",
+      "certifications": [
+        "Vegan",
+        "Cruelty-Free"
+      ],
+      "stock_quantity": 150,
+      "shipping_info": "Ships within 3-5 business days"
+    },
+    {
+      "id": "84",
+      "name": "Coagulation Analyzer",
+      "model": "Model-1027",
+      "manufacturer": "MediSys",
+      "brand": "ClotCheck",
+      "description": "Measures blood coagulation parameters such as PT and INR to monitor anticoagulant therapy.",
+      "price": 3570,
+      "category": "Dental",
+      "type": "Surgical Device",
+      "product_type": "Devices",
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.08,
+        "total_reviews": 295,
+        "ratings_distribution": {
+          "1": 14,
+          "2": 17,
+          "3": 35,
+          "4": 94,
+          "5": 135
+        }
+      },
+      "careInstructions": "Use certified reagents and perform quality control daily.",
+      "image": "https://res.cloudinary.com/dx4zjyfvt/image/upload/v1762036721/coagulation-analyzer-price_o49llo.jpg"
+    },
+    {
+      "id": "85",
+      "name": "Amlodipine (Amlodipine Besylate)",
+      "active_ingredient": "Amlodipine Besylate",
+      "description": "Used to treat high blood pressure and chest pain (angina). It relaxes blood vessels so blood can flow more easily.",
+      "price": 45,
+      "category": "Cardiovascular System (CVS)",
+      "type": "Calcium Channel Blocker",
+      "product_type": "Medicines",
+      "careInstructions": "Consult a physician for dosage and use.",
+      "image": "https://res.cloudinary.com/dah254u09/image/upload/zpbDalHuMqD4_wtzvnv.jpg",
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.2,
+        "total_reviews": 473,
+        "ratings_distribution": {
+          "1": 21,
+          "2": 33,
+          "3": 26,
+          "4": 147,
+          "5": 246
+        }
+      },
+      "manufacturer_name": "Generic (Various)",
+      "made_in": "Global",
+      "ingredient_list": "Amlodipine Besylate, Microcrystalline Cellulose, Calcium Phosphate Dibasic, Sodium Starch Glycolate, Magnesium Stearate."
+    },
+    {
+      "id": "86",
+      "name": "La Roche-Posay Anthelios SPF 50+",
+      "brand": "La Roche-Posay",
+      "active_ingredient": "Avobenzone, Homosalate, Octocrylene",
+      "description": "A Broad Spectrum SPF 50+ Sunscreen by La Roche-Posay suitable for All Skin Types. Helps improve skin health and appearance.",
+      "price": 36.99,
+      "currency": "USD",
+      "category": "Sunscreens",
+      "type": "SPF 50+ Sunscreen",
+      "product_type": "Cosmetics",
+      "skin_type": [
+        "All Skin Types"
+      ],
+      "benefits": [
+        "Protects from UVA/UVB",
+        "Non-greasy",
+        "Fast absorbing"
+      ],
+      "how_to_use": "Apply generously before sun exposure.",
+      "ingredients_list": [
+        "Avobenzone",
+        "Homosalate",
+        "Octocrylene",
+        "Water"
+      ],
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.8,
+        "total_reviews": 500,
+        "ratings_distribution": {
+          "1": 10,
+          "2": 20,
+          "3": 50,
+          "4": 120,
+          "5": 300
+        },
+        "top_positive_review": "Leaves skin soft and glowing!",
+        "top_negative_review": "May leave white cast."
+      },
+      "careInstructions": "Reapply every 2 hours.",
+      "image": "https://m.media-amazon.com/images/I/31y80GgNDPL._SX342_SY445_QL70_FMwebp_.jpg",
+      "made_in": "France",
+      "certifications": [
+        "Dermatologist Tested",
+        "Fragrance-Free"
+      ],
+      "stock_quantity": 150,
+      "shipping_info": "Free shipping for orders over $75"
+    },
+    {
+      "id": "87",
+      "name": "Clinical Laser for Skin Treatment",
+      "model": "Model-1028",
+      "manufacturer": "Sterilix",
+      "brand": "DermaLite",
+      "description": "Medical-grade laser device for treating skin conditions such as scars and pigmentation.",
+      "price": 3480,
+      "category": "Therapeutic",
+      "type": "Imaging Device",
+      "product_type": "Devices",
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.08,
+        "total_reviews": 290,
+        "ratings_distribution": {
+          "1": 14,
+          "2": 17,
+          "3": 34,
+          "4": 92,
+          "5": 133
+        }
+      },
+      "careInstructions": "Use proper eye protection and follow exact laser energy protocols.",
+      "image": "https://res.cloudinary.com/dx4zjyfvt/image/upload/v1762036801/laser-tattoo-removal-beauty-equipment-500x500_vini1s.webp"
+    },
+    {
+      "id": "88",
+      "name": "Neutrogena Hydro Boost Water Gel",
+      "brand": "Neutrogena",
+      "active_ingredient": "Hyaluronic Acid",
+      "description": "A Water Gel Moisturizer by Neutrogena suitable for All Skin Types. Helps improve skin health and appearance.",
+      "price": 16.99,
+      "currency": "USD",
+      "category": "Moisturizers",
+      "type": "Water Gel",
+      "product_type": "Cosmetics",
+      "skin_type": [
+        "All Skin Types"
+      ],
+      "benefits": [
+        "Hydrates deeply",
+        "Lightweight",
+        "Non-greasy"
+      ],
+      "how_to_use": "Apply as directed on clean skin.",
+      "ingredients_list": [
+        "Hyaluronic Acid",
+        "Water",
+        "Glycerin",
+        "Dimethicone"
+      ],
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.7,
+        "total_reviews": 400,
+        "ratings_distribution": {
+          "1": 5,
+          "2": 5,
+          "3": 20,
+          "4": 120,
+          "5": 250
+        },
+        "top_positive_review": "Leaves skin soft and glowing!",
+        "top_negative_review": "Light texture may need layering for very dry skin."
+      },
+      "careInstructions": "Use morning and night.",
+      "image": "https://m.media-amazon.com/images/I/5122I9WgBkL._SY300_SX300_QL70_FMwebp_.jpg",
+      "made_in": "USA",
+      "certifications": [
+        "Dermatologist Tested",
+        "Non-Comedogenic"
+      ],
+      "stock_quantity": 160,
+      "shipping_info": "Free shipping for orders over $50"
+    },
+    {
+      "id": "89",
+      "name": "Eucerin Anti-Redness Soothing Cream",
+      "brand": "Eucerin",
+      "active_ingredient": "Licorice Root Extract, Glycerin",
+      "description": "A Soothing Cream by Eucerin suitable for Sensitive, Dry. Helps improve skin health and appearance.",
+      "price": 18.5,
+      "currency": "USD",
+      "category": "Moisturizers",
+      "type": "Soothing Cream",
+      "product_type": "Cosmetics",
+      "skin_type": [
+        "Sensitive",
+        "Dry"
+      ],
+      "benefits": [
+        "Reduces redness",
+        "Calms irritation",
+        "Hydrates skin"
+      ],
+      "how_to_use": "Apply morning and night on clean skin.",
+      "ingredients_list": [
+        "Licorice Root Extract",
+        "Glycerin",
+        "Water",
+        "Emollients"
+      ],
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.6,
+        "total_reviews": 280,
+        "ratings_distribution": {
+          "1": 5,
+          "2": 10,
+          "3": 25,
+          "4": 80,
+          "5": 160
+        },
+        "top_positive_review": "Leaves skin soft and glowing!",
+        "top_negative_review": "May feel slightly thick for oily skin."
+      },
+      "careInstructions": "Use morning and night.",
+      "image": "https://m.media-amazon.com/images/I/41MW5HnBCJL._SX425_.jpg",
+      "made_in": "Germany",
+      "certifications": [
+        "Dermatologist Tested",
+        "Fragrance-Free"
+      ],
+      "stock_quantity": 140,
+      "shipping_info": "Ships within 3-5 business days"
+    },
+    {
+      "id": "90",
+      "name": "Digital Goniometer",
+      "model": "Model-1029",
+      "manufacturer": "OrthoMed",
+      "brand": "JointSense",
+      "description": "Digital device for measuring joint movement angles with precision.",
+      "price": 3635,
+      "category": "Neonatal",
+      "type": "Laboratory Equipment",
+      "product_type": "Devices",
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.09,
+        "total_reviews": 305,
+        "ratings_distribution": {
+          "1": 14,
+          "2": 18,
+          "3": 36,
+          "4": 97,
+          "5": 140
+        }
+      },
+      "careInstructions": "Clean and recalibrate the device between sessions and store properly.",
+      "image": "https://res.cloudinary.com/dx4zjyfvt/image/upload/v1762036850/71aRRBU-cfL._SL1500__ihsdxz.jpg"
+    },
+    {
+      "id": "91",
+      "name": "Digoxin (Digoxin)",
+      "active_ingredient": "Digoxin",
+      "description": "Used to treat heart failure and certain heart rhythm problems (atrial fibrillation). It helps the heart beat stronger and with a more regular rhythm.",
+      "price": 55,
+      "category": "Cardiovascular System (CVS)",
+      "type": "Cardiac Glycoside",
+      "product_type": "Medicines",
+      "careInstructions": "Consult a physician for dosage and use.",
+      "image": "https://res.cloudinary.com/dah254u09/image/upload/2grmU2zLJD51_vwet6a.png",
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.3,
+        "total_reviews": 442,
+        "ratings_distribution": {
+          "1": 5,
+          "2": 18,
+          "3": 72,
+          "4": 110,
+          "5": 237
+        }
+      },
+      "manufacturer_name": "GlaxoSmithKline",
+      "made_in": "UK/Global",
+      "ingredient_list": "Digoxin, Lactose, Corn Starch, Glycerin, Magnesium Stearate."
+    },
+    {
+      "id": "92",
+      "name": "La Roche-Posay Effaclar Duo+",
+      "brand": "La Roche-Posay",
+      "active_ingredient": "Niacinamide, Salicylic Acid",
+      "description": "A Blemish-Correcting Moisturizer by La Roche-Posay suitable for Oily, Acne-Prone Skin. Helps improve skin health and appearance.",
+      "price": 29.99,
+      "currency": "USD",
+      "category": "Moisturizers",
+      "type": "Blemish Corrector",
+      "product_type": "Cosmetics",
+      "skin_type": [
+        "Oily",
+        "Acne-Prone"
+      ],
+      "benefits": [
+        "Reduces blemishes",
+        "Unclogs pores",
+        "Matte finish"
+      ],
+      "how_to_use": "Apply morning and night after cleansing.",
+      "ingredients_list": [
+        "Niacinamide",
+        "Salicylic Acid",
+        "Water",
+        "Glycerin"
+      ],
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.7,
+        "total_reviews": 420,
+        "ratings_distribution": {
+          "1": 10,
+          "2": 10,
+          "3": 30,
+          "4": 120,
+          "5": 250
+        },
+        "top_positive_review": "Effective on blemishes quickly!",
+        "top_negative_review": "Slightly heavy on oily skin."
+      },
+      "careInstructions": "Use morning and night.",
+      "image": "https://m.media-amazon.com/images/I/71fpmD3g+IL._SX522_.jpg",
+      "made_in": "France",
+      "certifications": [
+        "Dermatologist Tested",
+        "Non-Comedogenic"
+      ],
+      "stock_quantity": 160,
+      "shipping_info": "Free shipping for orders over $50"
+    },
+    {
+      "id": "93",
+      "name": "Dental X-Ray Sensor",
+      "model": "Model-1030",
+      "manufacturer": "UltraScan",
+      "brand": "XrayDent",
+      "description": "High-resolution digital sensor for intraoral dental X-ray imaging, providing instant results.",
+      "price": 3790,
+      "category": "Dental",
+      "type": "Imaging Device",
+      "product_type": "Devices",
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.12,
+        "total_reviews": 320,
+        "ratings_distribution": {
+          "1": 14,
+          "2": 19,
+          "3": 38,
+          "4": 102,
+          "5": 147
+        }
+      },
+      "careInstructions": "Disinfect sensor thoroughly after each use and avoid dropping.",
+      "image": "https://res.cloudinary.com/dx4zjyfvt/image/upload/v1762985282/7523f877cd6dace5a32ae7df8ee2a099___optimized_468_468_zepczq.jpg"
+    },
+    {
+      "id": "94",
+      "name": "Omeprazole (Losec/Prilosec)",
+      "active_ingredient": "Omeprazole",
+      "description": "Used to treat heartburn, gastroesophageal reflux disease (GERD), and stomach ulcers by reducing the amount of acid produced in the stomach.",
+      "price": 45,
+      "category": "Gastrointestinal (GI) System Drugs",
+      "type": "Proton Pump Inhibitor (PPI)",
+      "product_type": "Medicines",
+      "careInstructions": "Take before a meal.",
+      "image": "https://res.cloudinary.com/dah254u09/image/upload/eypjcSncCM9M_looggf.jpg",
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.3,
+        "total_reviews": 134,
+        "ratings_distribution": {
+          "1": 4,
+          "2": 5,
+          "3": 12,
+          "4": 38,
+          "5": 75
+        }
+      },
+      "manufacturer_name": "AstraZeneca",
+      "made_in": "UK/Global",
+      "ingredient_list": "Omeprazole, Sucrose, Starch, Hydroxypropyl Cellulose, Sodium Lauryl Sulfate, Titanium Dioxide, Iron Oxide."
+    },
+    {
+      "id": "95",
+      "name": "Pantoprazole (Protonix)",
+      "active_ingredient": "Pantoprazole Sodium",
+      "description": "Another PPI used for the short-term treatment of erosive esophagitis and maintenance of healing of erosive esophagitis.",
+      "price": 55,
+      "category": "Gastrointestinal (GI) System Drugs",
+      "type": "Proton Pump Inhibitor (PPI)",
+      "product_type": "Medicines",
+      "careInstructions": "Take before a meal.",
+      "image": "https://res.cloudinary.com/dah254u09/image/upload/MYdPmhpxluYb_eh5i7z.png",
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.2,
+        "total_reviews": 350,
+        "ratings_distribution": {
+          "1": 10,
+          "2": 30,
+          "3": 24,
+          "4": 104,
+          "5": 182
+        }
+      },
+      "manufacturer_name": "Takeda",
+      "made_in": "Japan/Global",
+      "ingredient_list": "Pantoprazole Sodium, Mannitol, Crospovidone, Sodium Carbonate, Calcium Stearate, Hypromellose, Titanium Dioxide."
+    },
+    {
+      "id": "96",
+      "name": "Laparoscopic Surgical Set",
+      "model": "Model-1031",
+      "manufacturer": "Clinica",
+      "brand": "LapaSure",
+      "description": "A complete set of high-quality instruments for minimally invasive laparoscopic surgeries.",
+      "price": 3945,
+      "category": "Surgical",
+      "type": "Surgical Device",
+      "product_type": "Devices",
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.1,
+        "total_reviews": 335,
+        "ratings_distribution": {
+          "1": 14,
+          "2": 20,
+          "3": 40,
+          "4": 107,
+          "5": 154
+        }
+      },
+      "careInstructions": "Sterilize instruments rigorously and check for wear before use.",
+      "image": "https://res.cloudinary.com/dx4zjyfvt/image/upload/v1762985370/images_4_qjb6nc.jpg"
+    },
+    {
+      "id": "97",
+      "name": "Neutrogena Deep Clean Facial Cleanser",
+      "brand": "Neutrogena",
+      "active_ingredient": "Salicylic Acid",
+      "description": "A Deep Clean Facial Cleanser by Neutrogena suitable for Oily, Combination. Helps improve skin health and appearance.",
+      "price": 10.99,
+      "currency": "USD",
+      "category": "Cleansers",
+      "type": "Deep Clean Cleanser",
+      "product_type": "Cosmetics",
+      "skin_type": [
+        "Oily",
+        "Combination"
+      ],
+      "benefits": [
+        "Removes excess oil",
+        "Prevents breakouts",
+        "Cleans deeply"
+      ],
+      "how_to_use": "Apply to wet skin, massage, rinse thoroughly.",
+      "ingredients_list": [
+        "Salicylic Acid",
+        "Water",
+        "Glycerin",
+        "Emollients"
+      ],
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.5,
+        "total_reviews": 300,
+        "ratings_distribution": {
+          "1": 5,
+          "2": 5,
+          "3": 20,
+          "4": 90,
+          "5": 180
+        },
+        "top_positive_review": "Leaves skin soft and glowing!",
+        "top_negative_review": "Can be slightly drying for sensitive skin."
+      },
+      "careInstructions": "Use morning and night.",
+      "image": "https://m.media-amazon.com/images/I/31A3MbAiuCL._SY300_SX300_QL70_FMwebp_.jpg",
+      "made_in": "USA",
+      "certifications": [
+        "Dermatologist Tested",
+        "Non-Comedogenic"
+      ],
+      "stock_quantity": 150,
+      "shipping_info": "Ships within 3-5 business days"
+    },
+    {
+      "id": "98",
+      "name": "Bioderma Atoderm Cream",
+      "brand": "Bioderma",
+      "active_ingredient": "Glycerin, Niacinamide",
+      "description": "A Moisturizing Cream by Bioderma suitable for Dry, Very Dry Skin. Helps improve skin health and appearance.",
+      "price": 23.5,
+      "currency": "USD",
+      "category": "Moisturizers",
+      "type": "Moisturizing Cream",
+      "product_type": "Cosmetics",
+      "skin_type": [
+        "Dry",
+        "Very Dry"
+      ],
+      "benefits": [
+        "Deep hydration",
+        "Restores skin barrier",
+        "Soothes irritation"
+      ],
+      "how_to_use": "Apply morning and night on clean skin.",
+      "ingredients_list": [
+        "Water",
+        "Glycerin",
+        "Niacinamide",
+        "Emollients"
+      ],
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.7,
+        "total_reviews": 320,
+        "ratings_distribution": {
+          "1": 5,
+          "2": 5,
+          "3": 20,
+          "4": 90,
+          "5": 200
+        },
+        "top_positive_review": "Leaves skin soft and glowing!",
+        "top_negative_review": "Can feel slightly thick on oily skin."
+      },
+      "careInstructions": "Use morning and night.",
+      "image": "https://m.media-amazon.com/images/I/31rpzUi7PLL._SX342_SY445_QL70_FMwebp_.jpg",
+      "made_in": "France",
+      "certifications": [
+        "Dermatologist Tested",
+        "Fragrance-Free"
+      ],
+      "stock_quantity": 140,
+      "shipping_info": "Free shipping for orders over $50"
+    },
+    {
+      "id": "99",
+      "name": "Patient Monitoring System (Multi-Parameter)",
+      "model": "Model-1032",
+      "manufacturer": "SafeLife",
+      "brand": "VitalTrack",
+      "description": "Comprehensive monitor for continuous tracking of ECG, SpO2, NIBP, and temperature in critical care.",
+      "price": 4100,
+      "category": "Monitoring",
+      "type": "Monitoring Device",
+      "product_type": "Devices",
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.11,
+        "total_reviews": 350,
+        "ratings_distribution": {
+          "1": 14,
+          "2": 21,
+          "3": 42,
+          "4": 112,
+          "5": 161
+        }
+      },
+      "careInstructions": "Regularly check sensor connection points and calibrate vital sign modules.",
+      "image": "https://res.cloudinary.com/dx4zjyfvt/image/upload/v1762985467/12-1-Inch-Multi-Parameter-Patient-Monitor-with-Standard-Parameters-SNP9000N-_bqmhtw.avif"
+    },
+    {
+      "id": "100",
+      "name": "Famotidine (Pepcid)",
+      "active_ingredient": "Famotidine",
+      "description": "Used to treat and prevent ulcers in the stomach and intestines. It also treats conditions where the stomach produces too much acid.",
+      "price": 30,
+      "category": "Gastrointestinal (GI) System Drugs",
+      "type": "H2 Blocker (Histamine-2 Blocker)",
+      "product_type": "Medicines",
+      "careInstructions": "Can be taken with or without food.",
+      "image": "https://res.cloudinary.com/dah254u09/image/upload/o8SHtnFHLZ6h_c19787.webp",
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.2,
+        "total_reviews": 403,
+        "ratings_distribution": {
+          "1": 9,
+          "2": 18,
+          "3": 52,
+          "4": 135,
+          "5": 189
+        }
+      },
+      "manufacturer_name": "Johnson & Johnson",
+      "made_in": "USA/Global",
+      "ingredient_list": "Famotidine, Microcrystalline Cellulose, Magnesium Stearate, Talc, Hypromellose, Titanium Dioxide."
+    },
+    {
+      "id": "101",
+      "name": "Metoclopramide (Reglan)",
+      "active_ingredient": "Metoclopramide",
+      "description": "Used to treat heartburn caused by GERD and to speed up stomach emptying in people with diabetic gastroparesis.",
+      "price": 22,
+      "category": "Gastrointestinal (GI) System Drugs",
+      "type": "Prokinetic Agent",
+      "product_type": "Medicines",
+      "careInstructions": "Take 30 minutes before meals.",
+      "image": "https://res.cloudinary.com/dah254u09/image/upload/f6rjdneEI3Mt_ffc62o.jpg",
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.4,
+        "total_reviews": 174,
+        "ratings_distribution": {
+          "1": 4,
+          "2": 5,
+          "3": 14,
+          "4": 50,
+          "5": 101
+        }
+      },
+      "manufacturer_name": "Generic (Various)",
+      "made_in": "Global",
+      "ingredient_list": "Metoclopramide Hydrochloride, Lactose Monohydrate, Microcrystalline Cellulose, Corn Starch, Magnesium Stearate."
+    },
+    {
+      "id": "102",
+      "name": "Automated Immunoassay Analyzer",
+      "model": "Model-1033",
+      "manufacturer": "NeuroTech",
+      "brand": "ImmunoFast",
+      "description": "Fully automated system for fast and accurate quantitative measurement of hormones and infectious disease markers.",
+      "price": 4255,
+      "category": "Laboratory",
+      "type": "Laboratory Equipment",
+      "product_type": "Devices",
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.1,
+        "total_reviews": 365,
+        "ratings_distribution": {
+          "1": 15,
+          "2": 22,
+          "3": 43,
+          "4": 117,
+          "5": 168
+        }
+      },
+      "careInstructions": "Maintain reagent inventory and perform scheduled fluidics system cleaning.",
+      "image": "https://res.cloudinary.com/dx4zjyfvt/image/upload/v1762985507/fully-automatic-chemiluminescence-immunoassay153ae744-9a6c-4da9-9bde-2c00e11c7d8d_dqdcuc.webp"
+    },
+    {
+      "id": "103",
+      "name": "Mesalamine (Asacol/Lialda)",
+      "active_ingredient": "Mesalamine",
+      "description": "An anti-inflammatory drug used to treat mild to moderate ulcerative colitis and to prevent symptoms from flaring up.",
+      "price": 400,
+      "category": "Gastrointestinal (GI) System Drugs",
+      "type": "5-Aminosalicylate (5-ASA)",
+      "product_type": "Medicines",
+      "careInstructions": "Consult a physician for dosage and use.",
+      "image": "https://res.cloudinary.com/dah254u09/image/upload/NRh9LFEMSpjP_qzukdo.jpg",
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.5,
+        "total_reviews": 83,
+        "ratings_distribution": {
+          "1": 2,
+          "2": 2,
+          "3": 6,
+          "4": 16,
+          "5": 57
+        }
+      },
+      "manufacturer_name": "Shire/Takeda",
+      "made_in": "USA/Global",
+      "ingredient_list": "Mesalamine, Lactose Monohydrate, Sodium Starch Glycolate, Magnesium Stearate, Talc, Titanium Dioxide."
+    },
+    {
+      "id": "104",
+      "name": "Eucerin Hyaluron-Filler Day Cream SPF 30",
+      "brand": "Eucerin",
+      "active_ingredient": "Hyaluronic Acid, Glycine Saponin",
+      "description": "A Day Cream with SPF by Eucerin suitable for Normal, Dry Skin. Helps improve skin health and appearance.",
+      "price": 29.99,
+      "currency": "USD",
+      "category": "Moisturizers",
+      "type": "Day Cream SPF 30",
+      "product_type": "Cosmetics",
+      "skin_type": [
+        "Normal",
+        "Dry"
+      ],
+      "benefits": [
+        "Fills wrinkles",
+        "Hydrates skin",
+        "Protects from sun"
+      ],
+      "how_to_use": "Apply morning on clean skin.",
+      "ingredients_list": [
+        "Hyaluronic Acid",
+        "Glycine Saponin",
+        "Water",
+        "Emollients"
+      ],
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.6,
+        "total_reviews": 280,
+        "ratings_distribution": {
+          "1": 5,
+          "2": 10,
+          "3": 25,
+          "4": 80,
+          "5": 160
+        },
+        "top_positive_review": "Leaves skin soft and glowing!",
+        "top_negative_review": "May feel slightly thick for oily skin."
+      },
+      "careInstructions": "Use morning.",
+      "image": "https://m.media-amazon.com/images/I/31h2CRj5tiL._SY300_SX300_QL70_FMwebp_.jpg",
+      "made_in": "Germany",
+      "certifications": [
+        "Dermatologist Tested",
+        "Fragrance-Free"
+      ],
+      "stock_quantity": 130,
+      "shipping_info": "Ships within 3-5 business days"
+    },
+    {
+      "id": "105",
+      "name": "Bariatric Wheelchair",
+      "model": "Model-1034",
+      "manufacturer": "LabMaster",
+      "brand": "MaxSupport",
+      "description": "Heavy-duty wheelchair designed for patient comfort and support with high weight capacity.",
+      "price": 4410,
+      "category": "Mobility",
+      "type": "Mobility Aid",
+      "product_type": "Devices",
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.13,
+        "total_reviews": 380,
+        "ratings_distribution": {
+          "1": 15,
+          "2": 23,
+          "3": 45,
+          "4": 122,
+          "5": 175
+        }
+      },
+      "careInstructions": "Check tire pressure and inspect frame welds periodically.",
+      "image": "https://res.cloudinary.com/dx4zjyfvt/image/upload/v1762985600/Graham-Field-Traveler-HD-Heavy-Duty-Bariatric-Wheelchair2_yyi1n8.webp"
+    },
+    {
+      "id": "106",
+      "name": "Neutrogena Oil-Free Acne Moisturizer",
+      "brand": "Neutrogena",
+      "active_ingredient": "Salicylic Acid",
+      "description": "An Oil-Free Moisturizer by Neutrogena suitable for Oily, Acne-Prone Skin. Helps improve skin health and appearance.",
+      "price": 12.99,
+      "currency": "USD",
+      "category": "Moisturizers",
+      "type": "Oil-Free Moisturizer",
+      "product_type": "Cosmetics",
+      "skin_type": [
+        "Oily",
+        "Acne-Prone"
+      ],
+      "benefits": [
+        "Hydrates without grease",
+        "Reduces breakouts",
+        "Non-comedogenic"
+      ],
+      "how_to_use": "Apply morning and night on clean skin.",
+      "ingredients_list": [
+        "Salicylic Acid",
+        "Water",
+        "Glycerin",
+        "Dimethicone"
+      ],
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.5,
+        "total_reviews": 320,
+        "ratings_distribution": {
+          "1": 5,
+          "2": 10,
+          "3": 25,
+          "4": 100,
+          "5": 180
+        },
+        "top_positive_review": "Leaves skin soft and glowing!",
+        "top_negative_review": "Light moisturizer, may need layering."
+      },
+      "careInstructions": "Use morning and night.",
+      "image": "https://m.media-amazon.com/images/I/71KCKFNdTNL._SX425_.jpg",
+      "made_in": "USA",
+      "certifications": [
+        "Dermatologist Tested",
+        "Non-Comedogenic"
+      ],
+      "stock_quantity": 140,
+      "shipping_info": "Ships within 3-5 business days"
+    },
+    {
+      "id": "107",
+      "name": "Panadol (Paracetamol)",
+      "active_ingredient": "Paracetamol (Acetaminophen)",
+      "description": "A common over-the-counter medication used for the relief of pain and to reduce fever.",
+      "price": 18,
+      "category": "Central Nervous System (CNS)",
+      "type": "Analgesic / Antipyretic",
+      "product_type": "Medicines",
+      "careInstructions": "Do not exceed the recommended dose.",
+      "image": "https://res.cloudinary.com/dah254u09/image/upload/qRWRCRh7sf7w_ttptz1.jpg",
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.3,
+        "total_reviews": 358,
+        "ratings_distribution": {
+          "1": 10,
+          "2": 17,
+          "3": 45,
+          "4": 80,
+          "5": 206
+        }
+      },
+      "manufacturer_name": "GlaxoSmithKline",
+      "made_in": "UK/Global",
+      "ingredient_list": "Paracetamol (Acetaminophen), Starch, Povidone, Potassium Sorbate, Talc, Stearic Acid."
+    },
+    {
+      "id": "108",
+      "name": "Ophthalmology Slit Lamp",
+      "model": "Model-1035",
+      "manufacturer": "SurgiEquip",
+      "brand": "EyeFocus",
+      "description": "Device used for detailed examination of the anterior and posterior segments of the human eye.",
+      "price": 4565,
+      "category": "Diagnostic",
+      "type": "Diagnostic Device",
+      "product_type": "Devices",
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.12,
+        "total_reviews": 395,
+        "ratings_distribution": {
+          "1": 15,
+          "2": 24,
+          "3": 47,
+          "4": 127,
+          "5": 182
+        }
+      },
+      "careInstructions": "Keep optics dust-free and align light source accurately.",
+      "image": "https://res.cloudinary.com/dx4zjyfvt/image/upload/v1762985691/images_5_hjckh7.jpg"
+    },
+    {
+      "id": "109",
+      "name": "La Roche-Posay Cicaplast Baume B5",
+      "brand": "La Roche-Posay",
+      "active_ingredient": "Panthenol, Madecassoside",
+      "description": "A Multi-Repairing Balm by La Roche-Posay suitable for Sensitive, Dry Skin. Helps improve skin health and appearance.",
+      "price": 13.99,
+      "currency": "USD",
+      "category": "Moisturizers",
+      "type": "Repairing Balm",
+      "product_type": "Cosmetics",
+      "skin_type": [
+        "Sensitive",
+        "Dry"
+      ],
+      "benefits": [
+        "Soothes irritation",
+        "Repairs skin barrier",
+        "Hydrates"
+      ],
+      "how_to_use": "Apply as needed on affected areas.",
+      "ingredients_list": [
+        "Panthenol",
+        "Madecassoside",
+        "Water",
+        "Emollients"
+      ],
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.8,
+        "total_reviews": 400,
+        "ratings_distribution": {
+          "1": 5,
+          "2": 5,
+          "3": 20,
+          "4": 120,
+          "5": 250
+        },
+        "top_positive_review": "Leaves skin soft and glowing!",
+        "top_negative_review": "Slightly thick for daytime use."
+      },
+      "careInstructions": "Use as needed.",
+      "image": "https://m.media-amazon.com/images/I/41i9mCUHHEL._SX342_SY445_QL70_FMwebp_.jpg",
+      "made_in": "France",
+      "certifications": [
+        "Dermatologist Tested",
+        "Fragrance-Free"
+      ],
+      "stock_quantity": 160,
+      "shipping_info": "Free shipping for orders over $50"
+    },
+    {
+      "id": "110",
+      "name": "Loperamide (Imodium)",
+      "active_ingredient": "Loperamide Hydrochloride",
+      "description": "Used to slow down the movement of the gut, which helps to reduce the frequency of bowel movements and make the stool less watery.",
+      "price": 18,
+      "category": "Gastrointestinal (GI) System Drugs",
+      "type": "Antidiarrheal",
+      "product_type": "Medicines",
+      "careInstructions": "Do not use for more than 2 days without consulting a doctor.",
+      "image": "https://res.cloudinary.com/dah254u09/image/upload/TmPQNcPL8t8z_iztly7.jpg",
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.3,
+        "total_reviews": 190,
+        "ratings_distribution": {
+          "1": 5,
+          "2": 9,
+          "3": 13,
+          "4": 52,
+          "5": 111
+        }
+      },
+      "manufacturer_name": "Johnson & Johnson",
+      "made_in": "USA/Global",
+      "ingredient_list": "Loperamide Hydrochloride, Lactose, Corn Starch, Talc, Magnesium Stearate."
+    },
+    {
+      "id": "111",
+      "name": "Surgical Headlight System",
+      "model": "Model-1036",
+      "manufacturer": "MedTech Co.",
+      "brand": "SurgiLight",
+      "description": "High-intensity LED headlight system for clear illumination during complex surgeries.",
+      "price": 4720,
+      "category": "Imaging",
+      "type": "Therapeutic Device",
+      "product_type": "Devices",
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.14,
+        "total_reviews": 410,
+        "ratings_distribution": {
+          "1": 15,
+          "2": 25,
+          "3": 49,
+          "4": 132,
+          "5": 189
+        }
+      },
+      "careInstructions": "Charge battery fully before use and check fiber optic cable for damage.",
+      "image": "https://res.cloudinary.com/dx4zjyfvt/image/upload/v1762985828/quest-led-premium-headlight-system-242205_ud5xvl.webp"
+    },
+    {
+      "id": "112",
+      "name": "Eucerin UltraSensitive Soothing Cream",
+      "brand": "Eucerin",
+      "active_ingredient": "Glycerin, Dexpanthenol",
+      "description": "A Soothing Cream by Eucerin suitable for Sensitive, Redness-Prone Skin. Helps improve skin health and appearance.",
+      "price": 19.5,
+      "currency": "USD",
+      "category": "Moisturizers",
+      "type": "Soothing Cream",
+      "product_type": "Cosmetics",
+      "skin_type": [
+        "Sensitive",
+        "Redness-Prone"
+      ],
+      "benefits": [
+        "Calms irritation",
+        "Hydrates deeply",
+        "Restores barrier"
+      ],
+      "how_to_use": "Apply morning and night on clean skin.",
+      "ingredients_list": [
+        "Glycerin",
+        "Dexpanthenol",
+        "Water",
+        "Emollients"
+      ],
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.6,
+        "total_reviews": 300,
+        "ratings_distribution": {
+          "1": 5,
+          "2": 5,
+          "3": 20,
+          "4": 90,
+          "5": 180
+        },
+        "top_positive_review": "Leaves skin soft and glowing!",
+        "top_negative_review": "May feel thick for oily skin."
+      },
+      "careInstructions": "Use morning and night.",
+      "image": "https://m.media-amazon.com/images/I/21ybnFvNETL._SY300_SX300_QL70_FMwebp_.jpg",
+      "made_in": "Germany",
+      "certifications": [
+        "Dermatologist Tested",
+        "Fragrance-Free"
+      ],
+      "stock_quantity": 150,
+      "shipping_info": "Free shipping for orders over $50"
+    },
+    {
+      "id": "113",
+      "name": "Bisacodyl (Dulcolax)",
+      "active_ingredient": "Bisacodyl",
+      "description": "Used for the short-term treatment of constipation. It works by stimulating the muscles in the bowel to cause a bowel movement.",
+      "price": 22,
+      "category": "Gastrointestinal (GI) System Drugs",
+      "type": "Stimulant Laxative",
+      "product_type": "Medicines",
+      "careInstructions": "Take with a full glass of water.",
+      "image": "https://res.cloudinary.com/dah254u09/image/upload/RYCuRRKzhqm3_bli4tt.jpg",
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.4,
+        "total_reviews": 399,
+        "ratings_distribution": {
+          "1": 16,
+          "2": 12,
+          "3": 35,
+          "4": 75,
+          "5": 261
+        }
+      },
+      "manufacturer_name": "Sanofi",
+      "made_in": "France/Global",
+      "ingredient_list": "Bisacodyl, Lactose Monohydrate, Microcrystalline Cellulose, Magnesium Stearate, Hypromellose, Titanium Dioxide."
+    },
+    {
+      "id": "114",
+      "name": "Oxygen Concentrator (High Flow)",
+      "model": "Model-1037",
+      "manufacturer": "HealthPro",
+      "brand": "OxyGenie",
+      "description": "Provides continuous, high-concentration oxygen for patients with severe respiratory needs.",
+      "price": 4875,
+      "category": "Respiratory",
+      "type": "Respiratory Device",
+      "product_type": "Devices",
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.13,
+        "total_reviews": 425,
+        "ratings_distribution": {
+          "1": 16,
+          "2": 26,
+          "3": 50,
+          "4": 137,
+          "5": 196
+        }
+      },
+      "careInstructions": "Clean or replace air intake filters regularly and monitor oxygen output purity.",
+      "image": "https://res.cloudinary.com/dx4zjyfvt/image/upload/v1762985911/nideknuvo-10lpm-main-01-450x450-1_os1zwh.webp"
+    },
+    {
+      "id": "115",
+      "name": "The Ordinary Alpha Arbutin 2% + HA",
+      "brand": "The Ordinary",
+      "active_ingredient": "Alpha Arbutin, Hyaluronic Acid",
+      "description": "A Brightening Serum by The Ordinary suitable for All Skin Types. Helps improve skin health and appearance.",
+      "price": 12.99,
+      "currency": "USD",
+      "category": "Serums",
+      "type": "Brightening Serum",
+      "product_type": "Cosmetics",
+      "skin_type": [
+        "All Skin Types"
+      ],
+      "benefits": [
+        "Reduces dark spots",
+        "Brightens skin",
+        "Hydrates"
+      ],
+      "how_to_use": "Apply a few drops morning and night before moisturizer.",
+      "ingredients_list": [
+        "Alpha Arbutin",
+        "Hyaluronic Acid",
+        "Water",
+        "Glycerin"
+      ],
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.7,
+        "total_reviews": 350,
+        "ratings_distribution": {
+          "1": 5,
+          "2": 10,
+          "3": 25,
+          "4": 100,
+          "5": 210
+        },
+        "top_positive_review": "Brightens skin quickly!",
+        "top_negative_review": "Light texture may feel sticky at first."
+      },
+      "careInstructions": "Use morning and night.",
+      "image": "https://m.media-amazon.com/images/I/31vgJCvDbGL._SX342_SY445_QL70_FMwebp_.jpg",
+      "made_in": "Canada",
+      "certifications": [
+        "Vegan",
+        "Cruelty-Free"
+      ],
+      "stock_quantity": 150,
+      "shipping_info": "Ships within 3-5 business days"
+    },
+    {
+      "id": "116",
+      "name": "Voltaren (Diclofenac)",
+      "active_ingredient": "Diclofenac",
+      "description": "A potent pain reliever and anti-inflammatory agent used to treat joint pain, muscle aches, rheumatoid arthritis, and gout.",
+      "price": 45,
+      "category": "Central Nervous System (CNS)",
+      "type": "Nonsteroidal Anti-inflammatory Drug (NSAID)",
+      "product_type": "Medicines",
+      "careInstructions": "Consult a physician for dosage and use.",
+      "image": "https://res.cloudinary.com/dah254u09/image/upload/epa3IpRHHfWv_vqyywo.jpg",
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.1,
+        "total_reviews": 273,
+        "ratings_distribution": {
+          "1": 9,
+          "2": 20,
+          "3": 19,
+          "4": 101,
+          "5": 124
+        }
+      },
+      "manufacturer_name": "Novartis",
+      "made_in": "Switzerland/Global",
+      "ingredient_list": "Diclofenac Sodium, Microcrystalline Cellulose, Lactose Monohydrate, Magnesium Stearate, Hypromellose, Titanium Dioxide."
+    },
+    {
+      "id": "117",
+      "name": "Fetal Monitor (CTG)",
+      "model": "Model-1038",
+      "manufacturer": "BioCare",
+      "brand": "FetoSure",
+      "description": "Cardiotocography (CTG) device to monitor fetal heart rate and uterine contractions during labor.",
+      "price": 5030,
+      "category": "Neonatal",
+      "type": "Monitoring Device",
+      "product_type": "Devices",
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.15,
+        "total_reviews": 440,
+        "ratings_distribution": {
+          "1": 16,
+          "2": 27,
+          "3": 52,
+          "4": 142,
+          "5": 203
+        }
+      },
+      "careInstructions": "Calibrate transducers periodically and ensure proper placement on the abdomen.",
+      "image": "https://res.cloudinary.com/dx4zjyfvt/image/upload/v1762985944/Hospital-Portable-Fetal-Mother-Monitor-Ctg-Machine-Fetal-Monitor_npxewx.avif"
+    },
+    {
+      "id": "118",
+      "name": "Electrosurgical Unit (ESU)",
+      "model": "Model-1039",
+      "manufacturer": "MediSys",
+      "brand": "CutterPro",
+      "description": "Used to cut tissue and control bleeding during surgery using high-frequency electric current.",
+      "price": 5185,
+      "category": "Surgical",
+      "type": "Surgical Device",
+      "product_type": "Devices",
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.14,
+        "total_reviews": 455,
+        "ratings_distribution": {
+          "1": 16,
+          "2": 28,
+          "3": 54,
+          "4": 147,
+          "5": 210
+        }
+      },
+      "careInstructions": "Inspect return electrode pad site and verify power settings before activation.",
+      "image": "https://res.cloudinary.com/dx4zjyfvt/image/upload/v1762986026/Citadel_180_Front_vtw0rh.jpg"
+    },
+    {
+      "id": "119",
+      "name": "Zoloft (Sertraline)",
+      "active_ingredient": "Sertraline",
+      "description": "Used to treat depression, OCD, panic disorder, and social anxiety disorder.",
+      "price": 140,
+      "category": "Central Nervous System (CNS)",
+      "type": "Selective Serotonin Reuptake Inhibitor (SSRI)",
+      "product_type": "Medicines",
+      "careInstructions": "Use under medical supervision. Do not stop abruptly.",
+      "image": "https://res.cloudinary.com/dah254u09/image/upload/6gyGpWpUIVQy_wbp5lc.jpg",
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.2,
+        "total_reviews": 480,
+        "ratings_distribution": {
+          "1": 15,
+          "2": 16,
+          "3": 56,
+          "4": 144,
+          "5": 249
+        }
+      },
+      "manufacturer_name": "Pfizer",
+      "made_in": "USA/Global",
+      "ingredient_list": "Sertraline Hydrochloride, Dibasic Calcium Phosphate, Microcrystalline Cellulose, Magnesium Stearate, Hypromellose, Titanium Dioxide."
+    },
+    {
+      "id": "120",
+      "name": "The Ordinary Retinol 1% in Squalane",
+      "brand": "The Ordinary",
+      "active_ingredient": "Retinol, Squalane",
+      "description": "A highly stable, water-free solution of pure retinol to reduce fine lines, photo damage, and signs of aging.",
+      "price": 9.8,
+      "currency": "USD",
+      "category": "Serums",
+      "type": "Anti-Aging Serum",
+      "product_type": "Cosmetics",
+      "skin_type": [
+        "All Skin Types"
+      ],
+      "benefits": [
+        "Reduces fine lines",
+        "Improves skin texture",
+        "Hydrates"
+      ],
+      "how_to_use": "Apply a small amount at night before oils or heavier creams.",
+      "ingredients_list": [
+        "Retinol",
+        "Squalane",
+        "Caprylic/Capric Triglyceride"
+      ],
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.6,
+        "total_reviews": 410,
+        "ratings_distribution": {
+          "1": 5,
+          "2": 5,
+          "3": 30,
+          "4": 120,
+          "5": 250
+        },
+        "top_positive_review": "Effective anti-aging serum!",
+        "top_negative_review": "Can be slightly irritating for sensitive skin."
+      },
+      "careInstructions": "Use nightly.",
+      "image": "https://m.media-amazon.com/images/I/51T1f7+ls6L._AC_UL320_.jpg",
+      "made_in": "Canada",
+      "certifications": [
+        "Vegan",
+        "Cruelty-Free"
+      ],
+      "stock_quantity": 130,
+      "shipping_info": "Ships within 3-5 business days"
+    },
+    {
+      "id": "121",
+      "name": "Portable Dental Unit",
+      "model": "Model-1040",
+      "manufacturer": "Sterilix",
+      "brand": "MobileDent",
+      "description": "Compact, portable unit containing all essential tools for mobile dental care (drill, suction, scaler).",
+      "price": 5340,
+      "category": "Dental",
+      "type": "Dental Equipment",
+      "product_type": "Devices",
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.15,
+        "total_reviews": 470,
+        "ratings_distribution": {
+          "1": 16,
+          "2": 29,
+          "3": 56,
+          "4": 152,
+          "5": 217
+        }
+      },
+      "careInstructions": "Drain water lines and sterilize handpieces after every use.",
+      "image": "https://res.cloudinary.com/dx4zjyfvt/image/upload/v1762986142/aeu-350-whitebg-square_k8gvpk.webp"
+    },
+    {
+      "id": "122",
+      "name": "Lactulose (Duphalac)",
+      "active_ingredient": "Lactulose",
+      "description": "Used to treat constipation by drawing water into the colon, which softens the stool. It is also used to treat hepatic encephalopathy.",
+      "price": 55,
+      "category": "Gastrointestinal (GI) System Drugs",
+      "type": "Osmotic Laxative",
+      "product_type": "Medicines",
+      "careInstructions": "Mix with water or juice.",
+      "image": "https://res.cloudinary.com/dah254u09/image/upload/pnUhqfjSlHdW_pfelsb.jpg",
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.2,
+        "total_reviews": 435,
+        "ratings_distribution": {
+          "1": 12,
+          "2": 17,
+          "3": 50,
+          "4": 128,
+          "5": 228
+        }
+      },
+      "manufacturer_name": "Generic (Various)",
+      "made_in": "Global",
+      "ingredient_list": "Lactulose, Water."
+    },
+    {
+      "id": "123",
+      "name": "La Roche-Posay Anthelios Melt-in Milk Sunscreen SPF 60",
+      "brand": "La Roche-Posay",
+      "active_ingredient": "Avobenzone, Homosalate, Octocrylene",
+      "description": "Broad-spectrum SPF 60 sunscreen for face and body. Non-greasy formula providing advanced protection from UVA and UVB rays.",
+      "price": 36.99,
+      "currency": "USD",
+      "category": "Sunscreens",
+      "type": "Broad Spectrum SPF 60",
+      "product_type": "Cosmetics",
+      "skin_type": [
+        "All Skin Types"
+      ],
+      "benefits": [
+        "UVA/UVB protection",
+        "Non-greasy",
+        "Fast absorbing"
+      ],
+      "how_to_use": "Apply 15 minutes before sun exposure. Reapply every 2 hours.",
+      "ingredients_list": [
+        "Avobenzone",
+        "Homosalate",
+        "Octocrylene",
+        "Water",
+        "Glycerin"
+      ],
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.8,
+        "total_reviews": 890,
+        "ratings_distribution": {
+          "1": 10,
+          "2": 20,
+          "3": 60,
+          "4": 200,
+          "5": 600
+        },
+        "top_positive_review": "Excellent sun protection, non-greasy.",
+        "top_negative_review": "Leaves a slight white cast."
+      },
+      "careInstructions": "Reapply every 2 hours during sun exposure.",
+      "image": "https://m.media-amazon.com/images/I/613HS7eEFTL._AC_UL320_.jpg",
+      "made_in": "France",
+      "certifications": [
+        "Dermatologist Tested",
+        "Fragrance-Free"
+      ],
+      "stock_quantity": 150,
+      "shipping_info": "Free shipping for orders over $75"
+    },
+    {
+      "id": "124",
+      "name": "Biochemistry Analyzer",
+      "model": "Model-1041",
+      "manufacturer": "OrthoMed",
+      "brand": "ChemLab",
+      "description": "Automated system for analyzing blood and other fluids for chemical components like cholesterol and liver enzymes.",
+      "price": 5495,
+      "category": "Laboratory",
+      "type": "Laboratory Equipment",
+      "product_type": "Devices",
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.16,
+        "total_reviews": 485,
+        "ratings_distribution": {
+          "1": 16,
+          "2": 30,
+          "3": 58,
+          "4": 157,
+          "5": 224
+        }
+      },
+      "careInstructions": "Run daily quality control checks and maintain waste container levels.",
+      "image": "https://res.cloudinary.com/dx4zjyfvt/image/upload/v1762986170/images_6_xdcgfz.jpg"
+    },
+    {
+      "id": "125",
+      "name": "Paula’s Choice Skin Perfecting 2% BHA Liquid Exfoliant",
+      "brand": "Paula’s Choice",
+      "active_ingredient": "Salicylic Acid",
+      "description": "A gentle, leave-on exfoliant with 2% BHA that unclogs pores, smooths wrinkles, and brightens skin tone.",
+      "price": 33,
+      "currency": "USD",
+      "category": "Exfoliants",
+      "type": "BHA Liquid Exfoliant",
+      "product_type": "Cosmetics",
+      "skin_type": [
+        "All Skin Types"
+      ],
+      "benefits": [
+        "Unclogs pores",
+        "Smooths skin",
+        "Brightens complexion"
+      ],
+      "how_to_use": "Apply once or twice daily after cleansing and toning.",
+      "ingredients_list": [
+        "Salicylic Acid",
+        "Water",
+        "Glycerin",
+        "Butylene Glycol"
+      ],
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.9,
+        "total_reviews": 1250,
+        "ratings_distribution": {
+          "1": 10,
+          "2": 10,
+          "3": 50,
+          "4": 180,
+          "5": 1000
+        },
+        "top_positive_review": "Amazing exfoliant, skin feels smooth!",
+        "top_negative_review": "May sting sensitive areas."
+      },
+      "careInstructions": "Apply after cleansing, morning or night.",
+      "image": "https://m.media-amazon.com/images/I/61RHq4MT34L._AC_UL320_.jpg",
+      "made_in": "USA",
+      "certifications": [
+        "Vegan",
+        "Cruelty-Free"
+      ],
+      "stock_quantity": 200,
+      "shipping_info": "Ships within 3-5 business days"
+    },
+    {
+      "id": "126",
+      "name": "Prozac (Fluoxetine)",
+      "active_ingredient": "Fluoxetine",
+      "description": "Used to treat major depressive disorder, obsessive-compulsive disorder (OCD), and panic disorder. It works by increasing the level of serotonin in the brain.",
+      "price": 115,
+      "category": "Central Nervous System (CNS)",
+      "type": "Selective Serotonin Reuptake Inhibitor (SSRI)",
+      "product_type": "Medicines",
+      "careInstructions": "Use under medical supervision. Do not stop abruptly.",
+      "image": "https://res.cloudinary.com/dah254u09/image/upload/vLeYeSFLsu6d_ks5mv9.jpg",
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.3,
+        "total_reviews": 76,
+        "ratings_distribution": {
+          "1": 2,
+          "2": 2,
+          "3": 7,
+          "4": 23,
+          "5": 42
+        }
+      },
+      "manufacturer_name": "Eli Lilly",
+      "made_in": "USA/Global",
+      "ingredient_list": "Fluoxetine Hydrochloride, Starch, Gelatin, Silicone, Titanium Dioxide, Iron Oxide."
+    },
+    {
+      "id": "127",
+      "name": "Infrared Therapy Lamp",
+      "model": "Model-1042",
+      "manufacturer": "UltraScan",
+      "brand": "ThermaRelief",
+      "description": "Uses infrared light to penetrate the skin and provide deep heat relief for muscle pain and stiffness.",
+      "price": 5650,
+      "category": "Therapeutic",
+      "type": "Therapeutic Device",
+      "product_type": "Devices",
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.15,
+        "total_reviews": 500,
+        "ratings_distribution": {
+          "1": 16,
+          "2": 31,
+          "3": 60,
+          "4": 162,
+          "5": 231
+        }
+      },
+      "careInstructions": "Maintain a safe distance from skin during use and inspect bulb integrity.",
+      "image": "https://res.cloudinary.com/dx4zjyfvt/image/upload/v1762986239/s-l400_n5sy07.jpg"
+    },
+    {
+      "id": "128",
+      "name": "Eucerin Q10 Anti-Wrinkle Face Cream",
+      "brand": "Eucerin",
+      "active_ingredient": "Coenzyme Q10, Vitamin E",
+      "description": "This rich anti-wrinkle cream replenishes moisture and reduces fine lines for a smoother, softer complexion.",
+      "price": 12.49,
+      "currency": "USD",
+      "category": "Moisturizers",
+      "type": "Anti-Wrinkle Cream",
+      "product_type": "Cosmetics",
+      "skin_type": [
+        "Normal",
+        "Dry"
+      ],
+      "benefits": [
+        "Reduces fine lines",
+        "Firms skin",
+        "Hydrates deeply"
+      ],
+      "how_to_use": "Apply to clean face and neck morning and night.",
+      "ingredients_list": [
+        "Coenzyme Q10",
+        "Vitamin E",
+        "Water",
+        "Glycerin",
+        "Emollients"
+      ],
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.5,
+        "total_reviews": 640,
+        "ratings_distribution": {
+          "1": 10,
+          "2": 20,
+          "3": 50,
+          "4": 190,
+          "5": 370
+        },
+        "top_positive_review": "Skin feels smoother and firmer!",
+        "top_negative_review": "Slightly heavy for oily skin."
+      },
+      "careInstructions": "Use morning and night on clean skin.",
+      "image": "https://m.media-amazon.com/images/I/41Qvnw5dHNL._SY300_SX300_QL70_FMwebp_.jpg",
+      "made_in": "Germany",
+      "certifications": [
+        "Dermatologist Tested",
+        "Fragrance-Free"
+      ],
+      "stock_quantity": 160,
+      "shipping_info": "Ships within 3-5 business days"
+    },
+    {
+      "id": "129",
+      "name": "Ondansetron (Zofran)",
+      "active_ingredient": "Ondansetron",
+      "description": "Used to prevent nausea and vomiting caused by cancer chemotherapy, radiation therapy, and surgery.",
+      "price": 75,
+      "category": "Gastrointestinal (GI) System Drugs",
+      "type": "5-HT3 Receptor Antagonist",
+      "product_type": "Medicines",
+      "careInstructions": "Consult a physician for dosage and use.",
+      "image": "https://res.cloudinary.com/dah254u09/image/upload/3md6D7N6pNsU_z2aub1.jpg",
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.1,
+        "total_reviews": 154,
+        "ratings_distribution": {
+          "1": 7,
+          "2": 6,
+          "3": 19,
+          "4": 51,
+          "5": 71
+        }
+      },
+      "manufacturer_name": "GlaxoSmithKline",
+      "made_in": "UK/Global",
+      "ingredient_list": "Ondansetron Hydrochloride, Lactose Monohydrate, Microcrystalline Cellulose, Corn Starch, Magnesium Stearate, Titanium Dioxide."
+    },
+    {
+      "id": "130",
+      "name": "Electric Patient Lift",
+      "model": "Model-1043",
+      "manufacturer": "Clinica",
+      "brand": "SureLift",
+      "description": "Motorized patient lift for safe and comfortable transfer of patients with limited mobility.",
+      "price": 5805,
+      "category": "Mobility",
+      "type": "Mobility Aid",
+      "product_type": "Devices",
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.17,
+        "total_reviews": 515,
+        "ratings_distribution": {
+          "1": 16,
+          "2": 32,
+          "3": 62,
+          "4": 167,
+          "5": 238
+        }
+      },
+      "careInstructions": "Check sling security before use and inspect battery charge status.",
+      "image": "https://res.cloudinary.com/dx4zjyfvt/image/upload/v1762986278/39839d188b4fcd2ccb2335d4528eec4c_qete9k.webp"
+    },
+    {
+      "id": "131",
+      "name": "Vichy Minéral 89 Hyaluronic Acid Face Serum",
+      "brand": "Vichy",
+      "active_ingredient": "Hyaluronic Acid, Vichy Mineralizing Water",
+      "description": "A lightweight daily booster that strengthens the skin barrier and hydrates for a healthy, plump appearance.",
+      "price": 29.5,
+      "currency": "USD",
+      "category": "Serums",
+      "type": "Hydrating Serum",
+      "product_type": "Cosmetics",
+      "skin_type": [
+        "All Skin Types"
+      ],
+      "benefits": [
+        "Strengthens skin barrier",
+        "Hydrates deeply",
+        "Plumps skin"
+      ],
+      "how_to_use": "Apply 2 drops on clean skin morning and night before moisturizer.",
+      "ingredients_list": [
+        "Hyaluronic Acid",
+        "Vichy Mineralizing Water",
+        "Glycerin",
+        "Water"
+      ],
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.8,
+        "total_reviews": 980,
+        "ratings_distribution": {
+          "1": 10,
+          "2": 10,
+          "3": 40,
+          "4": 200,
+          "5": 720
+        },
+        "top_positive_review": "Hydrates and strengthens skin beautifully!",
+        "top_negative_review": "Texture feels sticky for some."
+      },
+      "careInstructions": "Apply morning and night before moisturizer.",
+      "image": "https://m.media-amazon.com/images/I/81M+3fT9DDL._AC_UL320_.jpg",
+      "made_in": "France",
+      "certifications": [
+        "Dermatologist Tested",
+        "Vegan"
+      ],
+      "stock_quantity": 150,
+      "shipping_info": "Ships within 3-5 business days"
+    },
+    {
+      "id": "132",
+      "name": "Bioderma Sensibio H2O Micellar Water",
+      "brand": "Bioderma",
+      "active_ingredient": "Micelles, Cucumber Extract",
+      "description": "A gentle cleansing and makeup-removing water for sensitive skin that soothes and refreshes without rinsing.",
+      "price": 16.9,
+      "currency": "USD",
+      "category": "Cleansers",
+      "type": "Micellar Water Cleanser",
+      "product_type": "Cosmetics",
+      "skin_type": [
+        "Sensitive",
+        "All Skin Types"
+      ],
+      "benefits": [
+        "Removes makeup",
+        "Soothes skin",
+        "Hydrates"
+      ],
+      "how_to_use": "Soak a cotton pad and gently cleanse face and eyes. No rinse required.",
+      "ingredients_list": [
+        "Micelles",
+        "Cucumber Extract",
+        "Water",
+        "Glycerin"
+      ],
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.9,
+        "total_reviews": 1800,
+        "ratings_distribution": {
+          "1": 10,
+          "2": 20,
+          "3": 50,
+          "4": 220,
+          "5": 1500
+        },
+        "top_positive_review": "Gentle and effective cleanser!",
+        "top_negative_review": "Bottle is small for daily use."
+      },
+      "careInstructions": "Use morning and evening.",
+      "image": "https://m.media-amazon.com/images/I/51D9UzBWcqL._AC_UL320_.jpg",
+      "made_in": "France",
+      "certifications": [
+        "Dermatologist Tested",
+        "Non-Comedogenic"
+      ],
+      "stock_quantity": 200,
+      "shipping_info": "Ships within 3-5 business days"
+    },
+    {
+      "id": "133",
+      "name": "ENT Diagnostic Set",
+      "model": "Model-1044",
+      "manufacturer": "SafeLife",
+      "brand": "EARDx",
+      "description": "Complete set of otoscope and ophthalmoscope for comprehensive ear, nose, and throat examination.",
+      "price": 5960,
+      "category": "Diagnostic",
+      "type": "Diagnostic Device",
+      "product_type": "Devices",
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.18,
+        "total_reviews": 530,
+        "ratings_distribution": {
+          "1": 16,
+          "2": 33,
+          "3": 64,
+          "4": 172,
+          "5": 245
+        }
+      },
+      "careInstructions": "Clean specula and lenses with appropriate solutions and store in case.",
+      "image": "https://res.cloudinary.com/dx4zjyfvt/image/upload/v1762986360/128425-19315266_bsvxi5.webp"
+    },
+    {
+      "id": "134",
+      "name": "Olay Regenerist Micro-Sculpting Cream",
+      "brand": "Olay",
+      "active_ingredient": "Niacinamide, Amino-Peptides",
+      "description": "An advanced anti-aging moisturizer that visibly firms skin and reduces the look of fine lines and wrinkles.",
+      "price": 27.99,
+      "currency": "USD",
+      "category": "Moisturizers",
+      "type": "Anti-Aging Cream",
+      "product_type": "Cosmetics",
+      "skin_type": [
+        "Normal",
+        "Dry"
+      ],
+      "benefits": [
+        "Firms skin",
+        "Reduces fine lines",
+        "Hydrates deeply"
+      ],
+      "how_to_use": "Use daily after cleansing, morning and night.",
+      "ingredients_list": [
+        "Niacinamide",
+        "Amino-Peptides",
+        "Water",
+        "Glycerin"
+      ],
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.6,
+        "total_reviews": 1300,
+        "ratings_distribution": {
+          "1": 15,
+          "2": 25,
+          "3": 90,
+          "4": 270,
+          "5": 900
+        },
+        "top_positive_review": "Noticeable improvement in skin firmness.",
+        "top_negative_review": "Slightly heavy for oily skin."
+      },
+      "careInstructions": "Apply morning and night on clean skin.",
+      "image": "https://m.media-amazon.com/images/I/71t1deHMkBL._AC_UL320_.jpg",
+      "made_in": "USA",
+      "certifications": [
+        "Dermatologist Tested",
+        "Non-Comedogenic"
+      ],
+      "stock_quantity": 150,
+      "shipping_info": "Ships within 3-5 business days"
+    },
+    {
+      "id": "135",
+      "name": "Simple Kind to Skin Soothing Facial Toner",
+      "brand": "Simple",
+      "active_ingredient": "Witch Hazel, Chamomile, Allantoin",
+      "description": "A gentle, alcohol-free toner that helps balance skin’s natural pH and refreshes without irritation.",
+      "price": 8.5,
+      "currency": "USD",
+      "category": "Toners",
+      "type": "Soothing Toner",
+      "product_type": "Cosmetics",
+      "skin_type": [
+        "All Skin Types",
+        "Sensitive"
+      ],
+      "benefits": [
+        "Balances pH",
+        "Soothes skin",
+        "Refreshes complexion"
+      ],
+      "how_to_use": "Apply with cotton pad after cleansing, before moisturizer.",
+      "ingredients_list": [
+        "Witch Hazel",
+        "Chamomile",
+        "Allantoin",
+        "Water"
+      ],
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.5,
+        "total_reviews": 780,
+        "ratings_distribution": {
+          "1": 10,
+          "2": 20,
+          "3": 70,
+          "4": 200,
+          "5": 480
+        },
+        "top_positive_review": "Soothes skin without irritation.",
+        "top_negative_review": "Mild scent not for everyone."
+      },
+      "careInstructions": "Use morning and night after cleansing.",
+      "image": "https://m.media-amazon.com/images/I/51QIwxrBB1L._AC_SY300_SX300_QL70_FMwebp_.jpg",
+      "made_in": "UK",
+      "certifications": [
+        "Dermatologist Tested",
+        "Alcohol-Free"
+      ],
+      "stock_quantity": 170,
+      "shipping_info": "Ships within 3-5 business days"
+    },
+    {
+      "id": "136",
+      "name": "Garnier SkinActive Micellar Cleansing Water",
+      "brand": "Garnier",
+      "active_ingredient": "Micelles, Glycerin",
+      "description": "Removes makeup and cleanses skin gently without rinsing, suitable for sensitive skin.",
+      "price": 7.99,
+      "currency": "USD",
+      "category": "Cleansers",
+      "type": "Micellar Water",
+      "product_type": "Cosmetics",
+      "skin_type": [
+        "All Skin Types",
+        "Sensitive"
+      ],
+      "benefits": [
+        "Removes makeup",
+        "Hydrates",
+        "Soothes skin"
+      ],
+      "how_to_use": "Apply with cotton pad to face and eyes, no rinse required.",
+      "ingredients_list": [
+        "Micelles",
+        "Glycerin",
+        "Water",
+        "Cucumber Extract"
+      ],
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.6,
+        "total_reviews": 1200,
+        "ratings_distribution": {
+          "1": 10,
+          "2": 20,
+          "3": 70,
+          "4": 300,
+          "5": 800
+        },
+        "top_positive_review": "Gently removes all makeup!",
+        "top_negative_review": "Small bottle for daily use."
+      },
+      "careInstructions": "Use morning and night after cleansing.",
+      "image": "https://m.media-amazon.com/images/I/410aYbZluvL._SY300_SX300_QL70_FMwebp_.jpg",
+      "made_in": "France",
+      "certifications": [
+        "Dermatologist Tested",
+        "Vegan"
+      ],
+      "stock_quantity": 200,
+      "shipping_info": "Ships within 3-5 business days"
+    },
+    {
+      "id": "137",
+      "name": "Operating Table",
+      "model": "Model-1045",
+      "manufacturer": "NeuroTech",
+      "brand": "SurgiRest",
+      "description": "Fully adjustable surgical table providing optimal patient positioning for various procedures.",
+      "price": 6115,
+      "category": "Surgical",
+      "type": "Surgical Device",
+      "product_type": "Devices",
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.17,
+        "total_reviews": 545,
+        "ratings_distribution": {
+          "1": 16,
+          "2": 34,
+          "3": 66,
+          "4": 177,
+          "5": 252
+        }
+      },
+      "careInstructions": "Lubricate moving parts regularly and disinfect all surfaces between cases.",
+      "image": "https://res.cloudinary.com/dx4zjyfvt/image/upload/v1762986393/images_7_kr5pxs.jpg"
+    },
+    {
+      "id": "138",
+      "name": "La Roche-Posay Toleriane Double Repair Face Moisturizer",
+      "brand": "La Roche-Posay",
+      "active_ingredient": "Ceramides, Niacinamide",
+      "description": "Daily moisturizer for sensitive skin that restores skin barrier and provides long-lasting hydration.",
+      "price": 19.99,
+      "currency": "USD",
+      "category": "Moisturizers",
+      "type": "Face Moisturizer",
+      "product_type": "Cosmetics",
+      "skin_type": [
+        "All Skin Types",
+        "Sensitive"
+      ],
+      "benefits": [
+        "Restores barrier",
+        "Hydrates",
+        "Soothes skin"
+      ],
+      "how_to_use": "Apply evenly to face and neck morning and night.",
+      "ingredients_list": [
+        "Ceramides",
+        "Niacinamide",
+        "Glycerin",
+        "Water"
+      ],
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.8,
+        "total_reviews": 950,
+        "ratings_distribution": {
+          "1": 10,
+          "2": 10,
+          "3": 30,
+          "4": 200,
+          "5": 700
+        },
+        "top_positive_review": "Hydrates perfectly without irritation.",
+        "top_negative_review": "Texture is a bit thick for oily skin."
+      },
+      "careInstructions": "Use morning and night.",
+      "image": "https://m.media-amazon.com/images/I/51x78epntaL._AC_UL320_.jpg",
+      "made_in": "France",
+      "certifications": [
+        "Dermatologist Tested",
+        "Non-Comedogenic"
+      ],
+      "stock_quantity": 180,
+      "shipping_info": "Ships within 3-5 business days"
+    },
+    {
+      "id": "139",
+      "name": "Celebrex (Celecoxib)",
+      "active_ingredient": "Celecoxib",
+      "description": "Used to relieve pain and inflammation in conditions like osteoarthritis, rheumatoid arthritis, and menstrual cramps.",
+      "price": 200,
+      "category": "Central Nervous System (CNS)",
+      "type": "NSAID (COX-2 Inhibitor)",
+      "product_type": "Medicines",
+      "careInstructions": "Consult a physician for dosage and use.",
+      "image": "https://res.cloudinary.com/dah254u09/image/upload/r7NfdnZEpCH5_d6nilt.jpg",
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.3,
+        "total_reviews": 200,
+        "ratings_distribution": {
+          "1": 6,
+          "2": 5,
+          "3": 21,
+          "4": 59,
+          "5": 109
+        }
+      },
+      "manufacturer_name": "Pfizer",
+      "made_in": "USA/Global",
+      "ingredient_list": "Celecoxib, Lactose Monohydrate, Sodium Lauryl Sulfate, Povidone, Croscarmellose Sodium, Magnesium Stearate."
+    },
+    {
+      "id": "140",
+      "name": "Surgical Drill System",
+      "model": "Model-1046",
+      "manufacturer": "LabMaster",
+      "brand": "BoneDrill",
+      "description": "High-speed electric drill system used for orthopedic and neurosurgical procedures.",
+      "price": 6270,
+      "category": "Imaging",
+      "type": "Dental Equipment",
+      "product_type": "Devices",
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.18,
+        "total_reviews": 560,
+        "ratings_distribution": {
+          "1": 16,
+          "2": 35,
+          "3": 68,
+          "4": 182,
+          "5": 259
+        }
+      },
+      "careInstructions": "Sterilize drill bits and handpieces according to high-level disinfection protocols.",
+      "image": "https://res.cloudinary.com/dx4zjyfvt/image/upload/v1762986483/signature-2-iBur-family-1500x892_ln4x1l.jpg"
+    },
+    {
+      "id": "141",
+      "name": "Gabapentin (Gabapentin)",
+      "active_ingredient": "Gabapentin",
+      "description": "Used to treat seizures and nerve pain (postherpetic neuralgia).",
+      "price": 75,
+      "category": "Central Nervous System (CNS)",
+      "type": "Anticonvulsant / Nerve Pain Analgesic",
+      "product_type": "Medicines",
+      "careInstructions": "Use under medical supervision.",
+      "image": "https://res.cloudinary.com/dah254u09/image/upload/gaba_opjoyu.avif",
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.1,
+        "total_reviews": 484,
+        "ratings_distribution": {
+          "1": 7,
+          "2": 35,
+          "3": 54,
+          "4": 173,
+          "5": 215
+        }
+      },
+      "manufacturer_name": "Generic (Various)",
+      "made_in": "Global",
+      "ingredient_list": "Gabapentin, Lactose, Corn Starch, Talc, Magnesium Stearate."
+    },
+    {
+      "id": "142",
+      "name": "Olay Regenerist Retinol 24 Night Moisturizer",
+      "brand": "Olay",
+      "active_ingredient": "Retinol, Niacinamide",
+      "description": "Night cream that combines retinol complex and niacinamide to reduce wrinkles and improve skin texture.",
+      "price": 28.99,
+      "currency": "USD",
+      "category": "Moisturizers",
+      "type": "Night Cream",
+      "product_type": "Cosmetics",
+      "skin_type": [
+        "All Skin Types"
+      ],
+      "benefits": [
+        "Reduces wrinkles",
+        "Improves texture",
+        "Hydrates skin overnight"
+      ],
+      "how_to_use": "Apply each night on clean face and neck.",
+      "ingredients_list": [
+        "Retinol",
+        "Niacinamide",
+        "Glycerin",
+        "Water"
+      ],
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.6,
+        "total_reviews": 1450,
+        "ratings_distribution": {
+          "1": 20,
+          "2": 30,
+          "3": 100,
+          "4": 350,
+          "5": 950
+        },
+        "top_positive_review": "Noticeable difference in fine lines.",
+        "top_negative_review": "May cause slight redness at first use."
+      },
+      "careInstructions": "Use nightly on clean skin.",
+      "image": "https://m.media-amazon.com/images/I/71O7OnBQPwL._SX425_.jpg",
+      "made_in": "USA",
+      "certifications": [
+        "Dermatologist Tested",
+        "Non-Comedogenic"
+      ],
+      "stock_quantity": 170,
+      "shipping_info": "Ships within 3-5 business days"
+    },
+    {
+      "id": "143",
+      "name": "Neonatal Warmer",
+      "model": "Model-1047",
+      "manufacturer": "SurgiEquip",
+      "brand": "WarmStart",
+      "description": "Open-bed radiant warmer providing thermal regulation for newborns requiring observation or procedures.",
+      "price": 6425,
+      "category": "Neonatal",
+      "type": "Therapeutic Device",
+      "product_type": "Devices",
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.19,
+        "total_reviews": 575,
+        "ratings_distribution": {
+          "1": 16,
+          "2": 36,
+          "3": 70,
+          "4": 187,
+          "5": 266
+        }
+      },
+      "careInstructions": "Calibrate temperature sensor and clean surfaces with non-abrasive disinfectant.",
+      "image": "https://res.cloudinary.com/dx4zjyfvt/image/upload/v1762986508/3-scaled_muypn3.jpg"
+    },
+    {
+      "id": "144",
+      "name": "Neutrogena Rapid Wrinkle Repair Retinol Oil",
+      "brand": "Neutrogena",
+      "active_ingredient": "Retinol, Hyaluronic Acid",
+      "description": "Facial oil with retinol to reduce wrinkles, smooth skin texture, and improve hydration.",
+      "price": 25.99,
+      "currency": "USD",
+      "category": "Serums",
+      "type": "Anti-Wrinkle Oil",
+      "product_type": "Cosmetics",
+      "skin_type": [
+        "All Skin Types"
+      ],
+      "benefits": [
+        "Reduces wrinkles",
+        "Smooths skin",
+        "Hydrates"
+      ],
+      "how_to_use": "Apply 2-3 drops nightly to face and neck.",
+      "ingredients_list": [
+        "Retinol",
+        "Hyaluronic Acid",
+        "Glycerin",
+        "Caprylic/Capric Triglyceride"
+      ],
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.7,
+        "total_reviews": 980,
+        "ratings_distribution": {
+          "1": 10,
+          "2": 20,
+          "3": 50,
+          "4": 250,
+          "5": 650
+        },
+        "top_positive_review": "Skin feels smoother and plumper.",
+        "top_negative_review": "May feel oily for some skin types."
+      },
+      "careInstructions": "Use nightly on clean skin.",
+      "image": "https://m.media-amazon.com/images/I/71yEYNwAOjL._AC_UL320_.jpg",
+      "made_in": "USA",
+      "certifications": [
+        "Dermatologist Tested",
+        "Non-Comedogenic"
+      ],
+      "stock_quantity": 160,
+      "shipping_info": "Ships within 3-5 business days"
+    },
+    {
+      "id": "145",
+      "name": "Ranitidine (Zantac)",
+      "active_ingredient": "Ranitidine",
+      "description": "Used to treat and prevent ulcers and conditions where the stomach produces too much acid. (Note: This drug has been subject to recalls in some markets).",
+      "price": 30,
+      "category": "Gastrointestinal (GI) System Drugs",
+      "type": "H2 Blocker (Histamine-2 Blocker)",
+      "product_type": "Medicines",
+      "careInstructions": "Consult a physician for use.",
+      "image": "https://res.cloudinary.com/dah254u09/image/upload/dndu4YT9jVct_dtdzq2.jpg",
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.2,
+        "total_reviews": 326,
+        "ratings_distribution": {
+          "1": 13,
+          "2": 23,
+          "3": 21,
+          "4": 87,
+          "5": 182
+        }
+      },
+      "manufacturer_name": "GlaxoSmithKline",
+      "made_in": "UK/Global",
+      "ingredient_list": "Ranitidine Hydrochloride, Microcrystalline Cellulose, Magnesium Stearate, Hypromellose, Titanium Dioxide."
+    },
+    {
+      "id": "146",
+      "name": "Anesthesia Workstation",
+      "model": "Model-1048",
+      "manufacturer": "MedTech Co.",
+      "brand": "AeroFlow",
+      "description": "Integrated system for delivering precise anesthesia gases and monitoring patient's status during surgical procedures.",
+      "price": 6580,
+      "category": "Monitoring",
+      "type": "Monitoring Device",
+      "product_type": "Devices",
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.18,
+        "total_reviews": 590,
+        "ratings_distribution": {
+          "1": 16,
+          "2": 37,
+          "3": 72,
+          "4": 192,
+          "5": 273
+        }
+      },
+      "careInstructions": "Perform leak tests before each case and monitor gas scavenging system function.",
+      "image": "https://res.cloudinary.com/dx4zjyfvt/image/upload/v1762986551/s6100a-750x750_zvnpzu.jpg"
+    },
+    {
+      "id": "147",
+      "name": "La Roche-Posay Effaclar Duo Acne Treatment",
+      "brand": "La Roche-Posay",
+      "active_ingredient": "Benzoyl Peroxide, Salicylic Acid",
+      "description": "Targeted treatment for acne-prone skin to reduce blemishes and prevent future breakouts.",
+      "price": 21.99,
+      "currency": "USD",
+      "category": "Treatments",
+      "type": "Acne Treatment",
+      "product_type": "Cosmetics",
+      "skin_type": [
+        "Oily",
+        "Combination",
+        "Acne-Prone"
+      ],
+      "benefits": [
+        "Reduces blemishes",
+        "Prevents breakouts",
+        "Soothes skin"
+      ],
+      "how_to_use": "Apply a thin layer to affected areas once or twice daily.",
+      "ingredients_list": [
+        "Benzoyl Peroxide",
+        "Salicylic Acid",
+        "Water",
+        "Glycerin"
+      ],
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.7,
+        "total_reviews": 1100,
+        "ratings_distribution": {
+          "1": 10,
+          "2": 20,
+          "3": 70,
+          "4": 250,
+          "5": 750
+        },
+        "top_positive_review": "Clears blemishes quickly.",
+        "top_negative_review": "Can cause dryness at first."
+      },
+      "careInstructions": "Apply once or twice daily on clean skin.",
+      "image": "https://m.media-amazon.com/images/I/31h13vveueL._SX342_SY445_QL70_FMwebp_.jpg",
+      "made_in": "France",
+      "certifications": [
+        "Dermatologist Tested",
+        "Non-Comedogenic"
+      ],
+      "stock_quantity": 180,
+      "shipping_info": "Ships within 3-5 business days"
+    },
+    {
+      "id": "148",
+      "name": "The Ordinary Glycolic Acid 7% Toning Solution",
+      "brand": "The Ordinary",
+      "active_ingredient": "Glycolic Acid, Aloe Vera, Ginseng",
+      "description": "Exfoliating toner that brightens skin tone and improves texture.",
+      "price": 8.9,
+      "currency": "USD",
+      "category": "Exfoliants",
+      "type": "Toning Solution",
+      "product_type": "Cosmetics",
+      "skin_type": [
+        "All Skin Types"
+      ],
+      "benefits": [
+        "Exfoliates",
+        "Brightens skin",
+        "Improves texture"
+      ],
+      "how_to_use": "Apply with cotton pad once daily, evening only.",
+      "ingredients_list": [
+        "Glycolic Acid",
+        "Aloe Vera",
+        "Ginseng",
+        "Water",
+        "Glycerin"
+      ],
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.6,
+        "total_reviews": 950,
+        "ratings_distribution": {
+          "1": 10,
+          "2": 20,
+          "3": 70,
+          "4": 250,
+          "5": 600
+        },
+        "top_positive_review": "Skin looks brighter and smoother.",
+        "top_negative_review": "May sting sensitive skin."
+      },
+      "careInstructions": "Use in the evening only after cleansing.",
+      "image": "https://m.media-amazon.com/images/I/51W+NlvbH2L._AC_UL320_.jpg",
+      "made_in": "Canada",
+      "certifications": [
+        "Vegan",
+        "Cruelty-Free"
+      ],
+      "stock_quantity": 160,
+      "shipping_info": "Ships within 3-5 business days"
+    },
+    {
+      "id": "149",
+      "name": "Electrolyte Analyzer",
+      "model": "Model-1049",
+      "manufacturer": "HealthPro",
+      "brand": "IonCheck",
+      "description": "Measures critical electrolytes (Na, K, Cl) and total CO2 in blood plasma quickly.",
+      "price": 6735,
+      "category": "Laboratory",
+      "type": "Diagnostic Device",
+      "product_type": "Devices",
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.19,
+        "total_reviews": 605,
+        "ratings_distribution": {
+          "1": 16,
+          "2": 38,
+          "3": 74,
+          "4": 197,
+          "5": 280
+        }
+      },
+      "careInstructions": "Calibrate ion-selective electrodes daily and handle samples carefully to prevent bubbles.",
+      "image": "https://res.cloudinary.com/dx4zjyfvt/image/upload/v1762986616/37aa62c32ac07c7d87731bf05ac748a8_sdlfvr.png"
+    },
+    {
+      "id": "150",
+      "name": "Tramadol (Tramadol)",
+      "active_ingredient": "Tramadol",
+      "description": "A strong pain reliever used to treat moderate to severe pain. It changes how the body feels pain by acting on the brain.",
+      "price": 100,
+      "category": "Central Nervous System (CNS)",
+      "type": "Opioid Analgesic",
+      "product_type": "Medicines",
+      "careInstructions": "Highly controlled substance. Use strictly as prescribed.",
+      "image": "https://res.cloudinary.com/dah254u09/image/upload/2Uv1YiJgyyAM_dxeavi.jpg",
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.2,
+        "total_reviews": 476,
+        "ratings_distribution": {
+          "1": 14,
+          "2": 22,
+          "3": 44,
+          "4": 175,
+          "5": 221
+        }
+      },
+      "manufacturer_name": "Generic (Various)",
+      "made_in": "Global",
+      "ingredient_list": "Tramadol Hydrochloride, Microcrystalline Cellulose, Povidone, Magnesium Stearate, Colloidal Silicon Dioxide."
+    },
+    {
+      "id": "151",
+      "name": "Xanax (Alprazolam)",
+      "active_ingredient": "Alprazolam",
+      "description": "Used to treat anxiety disorders and panic attacks. It works by calming the brain and nerves.",
+      "price": 160,
+      "category": "Central Nervous System (CNS)",
+      "type": "Benzodiazepine",
+      "product_type": "Medicines",
+      "careInstructions": "Highly controlled substance. Use strictly as prescribed.",
+      "image": "https://res.cloudinary.com/dah254u09/image/upload/3FPWVHnib0xA_ejwjsw.jpg",
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.4,
+        "total_reviews": 188,
+        "ratings_distribution": {
+          "1": 6,
+          "2": 6,
+          "3": 12,
+          "4": 50,
+          "5": 114
+        }
+      },
+      "manufacturer_name": "Pfizer (Upjohn)",
+      "made_in": "USA/Global",
+      "ingredient_list": "Alprazolam, Cellulose, Corn Starch, Docusate Sodium, Lactose, Magnesium Stearate, Silicon Dioxide, Sodium Benzoate."
+    },
+    {
+      "id": "152",
+      "name": "Digital Panoramic X-Ray",
+      "model": "Model-1052",
+      "manufacturer": "Sterilix",
+      "brand": "PanoScan",
+      "description": "High-definition panoramic X-ray system for comprehensive view of the entire dental arch and jaw.",
+      "price": 7200,
+      "category": "Dental",
+      "type": "Imaging Device",
+      "product_type": "Devices",
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.21,
+        "total_reviews": 650,
+        "ratings_distribution": {
+          "1": 16,
+          "2": 41,
+          "3": 80,
+          "4": 212,
+          "5": 301
+        }
+      },
+      "careInstructions": "Ensure patient positioning is accurate and update imaging software.",
+      "image": "https://res.cloudinary.com/dx4zjyfvt/image/upload/v1762986741/panoura_18s_dental_panoramic_x-ray_and_cbct_1_pr1zf2.jpg"
+    },
+    {
+      "id": "153",
+      "name": "Eucerin Advanced Repair Lotion",
+      "brand": "Eucerin",
+      "active_ingredient": "Urea, Ceramides",
+      "description": "Rich body lotion that repairs very dry skin and restores smoothness.",
+      "price": 11.99,
+      "currency": "USD",
+      "category": "Body Care",
+      "type": "Repair Lotion",
+      "product_type": "Cosmetics",
+      "skin_type": [
+        "Dry",
+        "Sensitive"
+      ],
+      "benefits": [
+        "Repairs dry skin",
+        "Hydrates",
+        "Soothes skin"
+      ],
+      "how_to_use": "Apply generously to body as needed.",
+      "ingredients_list": [
+        "Urea",
+        "Ceramides",
+        "Glycerin",
+        "Water"
+      ],
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.8,
+        "total_reviews": 800,
+        "ratings_distribution": {
+          "1": 5,
+          "2": 5,
+          "3": 40,
+          "4": 150,
+          "5": 600
+        },
+        "top_positive_review": "Extremely effective for very dry skin.",
+        "top_negative_review": "Texture a bit thick for some users."
+      },
+      "careInstructions": "Use daily on dry areas.",
+      "image": "https://m.media-amazon.com/images/I/61iSRF5mHfL._AC_UL320_.jpg",
+      "made_in": "Germany",
+      "certifications": [
+        "Dermatologist Tested",
+        "Fragrance-Free"
+      ],
+      "stock_quantity": 180,
+      "shipping_info": "Ships within 3-5 business days"
+    },
+    {
+      "id": "154",
+      "name": "Lyrica (Pregabalin)",
+      "active_ingredient": "Pregabalin",
+      "description": "Used to treat nerve pain caused by diabetes or shingles, partial seizures, and generalized anxiety disorder.",
+      "price": 225,
+      "category": "Central Nervous System (CNS)",
+      "type": "Anticonvulsant / Nerve Pain Analgesic",
+      "product_type": "Medicines",
+      "careInstructions": "Use under medical supervision.",
+      "image": "https://res.cloudinary.com/dah254u09/image/upload/h4VZhrtb8MQi_ve568b.jpg",
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.3,
+        "total_reviews": 231,
+        "ratings_distribution": {
+          "1": 5,
+          "2": 10,
+          "3": 22,
+          "4": 68,
+          "5": 126
+        }
+      },
+      "manufacturer_name": "Pfizer",
+      "made_in": "USA/Global",
+      "ingredient_list": "Pregabalin, Lactose Monohydrate, Cornstarch, Talc, Gelatin, Sodium Lauryl Sulfate, Titanium Dioxide."
+    },
+    {
+      "id": "155",
+      "name": "Paula’s Choice Resist Anti-Aging Clear Skin Hydrator",
+      "brand": "Paula’s Choice",
+      "active_ingredient": "Niacinamide, Peptides",
+      "description": "Lightweight moisturizer that hydrates, reduces fine lines, and improves skin texture.",
+      "price": 30,
+      "currency": "USD",
+      "category": "Moisturizers",
+      "type": "Anti-Aging Hydrator",
+      "product_type": "Cosmetics",
+      "skin_type": [
+        "Normal",
+        "Oily",
+        "Combination"
+      ],
+      "benefits": [
+        "Hydrates",
+        "Reduces fine lines",
+        "Improves texture"
+      ],
+      "how_to_use": "Apply morning and night after cleansing and treatment.",
+      "ingredients_list": [
+        "Niacinamide",
+        "Peptides",
+        "Glycerin",
+        "Water"
+      ],
+      "inWishlist": false,
+      "inCard": false,
+      "customer_reviews": {
+        "average_rating": 4.7,
+        "total_reviews": 900,
+        "ratings_distribution": {
+          "1": 5,
+          "2": 10,
+          "3": 35,
+          "4": 200,
+          "5": 650
+        },
+        "top_positive_review": "Great for improving skin texture.",
+        "top_negative_review": "Slightly pricey."
+      },
+      "careInstructions": "Use morning and night.",
+      "image": "https://m.media-amazon.com/images/I/61iuDP6qqEL._AC_UL320_.jpg",
+      "made_in": "USA",
+      "certifications": [
+        "Vegan",
+        "Cruelty-Free"
+      ],
+      "stock_quantity": 150,
+      "shipping_info": "Ships within 3-5 business days"
+    }
+  ],
+  "order": [
+    {
+      "id": "08b1",
+      "order": {
+        "id": "1763895343426",
+        "firstName": "aya",
+        "lastName": "alaa",
+        "email": "a@a.com",
+        "phone": "0595846388",
+        "country": "Algeria",
+        "state": "Aïn Defla",
+        "city": "Khemis Miliana",
+        "shoppingMethod": "pickup",
+        "total": 57.81,
+        "status": "Processing",
+        "createdAt": "2025-11-23T10:55:43.426Z"
+      }
+    }
+  ]
+}
