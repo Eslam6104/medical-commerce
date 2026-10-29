@@ -35,6 +35,7 @@
     "redux-persist": "^6.0.0",
     "sweetalert2": "^11.26.3",
     "swiper": "^12.0.3",
+    "vercel": "^59.5.0",
     "zod": "^4.1.12"
   },
   "devDependencies": {
